@@ -938,8 +938,8 @@
     {
       "atomType": "Molecule",
       "name": "Slots",
-      "x": 0.2931893687707641,
-      "y": 0.4627329192546583,
+      "x": 0.3289036544850499,
+      "y": 0.5403726708074534,
       "uniqueID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c",
       "ioValues": [
         {
@@ -1677,8 +1677,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.41777408637873753,
-          "y": 0.6335403726708074,
+          "x": 0.3853820598006645,
+          "y": 0.6180124223602484,
           "uniqueID": "cfe4026e-f2d4-436f-93ce-7b854ef02d91",
           "ioValues": [
             {
@@ -1908,8 +1908,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.49667774086378735,
-          "y": 0.7919254658385093,
+          "x": 0.45598006644518274,
+          "y": 0.8074534161490683,
           "uniqueID": "203ea3a9-db7c-4f5d-b575-d38dbdc2eb8d",
           "ioValues": [
             {
@@ -2143,8 +2143,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.6262458471760797,
-          "y": 0.8633540372670808,
+          "x": 0.5963455149501661,
+          "y": 0.8354037267080745,
           "uniqueID": "4d4a7411-6614-4384-85dc-3fb5c161f671",
           "ioValues": [
             {
@@ -2465,8 +2465,8 @@
         {
           "atomType": "Code",
           "name": "Code",
-          "x": 0.292358803986711,
-          "y": 0.515527950310559,
+          "x": 0.2574750830564784,
+          "y": 0.48757763975155277,
           "uniqueID": "e238d806-ab69-436d-ac13-740e8edfbaa8",
           "ioValues": [
             {
@@ -2480,7 +2480,7 @@
             }
           ],
           "codeVersion": 1,
-          "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n      let translatedFace = createdShape.faces[5].translateX(5)\n\nlet offset = replicad.makeOffset(\n   translatedFace, \n   5, \n   0)\nlet planeFace = replicad.makePlaneFromFace(translatedFace, [0,0])\nlet createdRectangle = replicad.drawRectangle(5, 7)\n      let createdShape2 = createdRectangle.sketchOnPlane(planeFace).extrude(3)\n     let createdShape3 = createdShape2.clone().translate([5,0,0])\n//Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape3],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\nconsole.log(createdShape.faces[0].translateX(5))\n\n     return shape2"
+          "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n      let translatedFace = createdShape.faces[5].translateX(5)\n\nlet offset = replicad.makeOffset(\n   translatedFace, \n   5, \n   0)\nlet planeFace = replicad.makePlaneFromFace(translatedFace, [0,0])\nlet createdRectangle = replicad.drawRectangle(5, 7)\n      let createdShape2 = createdRectangle.sketchOnPlane(planeFace).extrude(5 )\n     let createdShape3 = createdRectangle.sketchOnPlane(planeFace).extrude(5).translate([5,0,0])\n//Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape3],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\nconsole.log(createdShape.faces[0].translateX(5))\n\n//Use the built-in Assembly function to combine multiple shapes\n      let finalAssembly = await Assembly([createdShape3, createdShape2])\n\n      //You can also create boolean operations using Intersect\n      //let intersection = await Intersect(movedShape, rotatedShape)\n\n      return finalAssembly\n"
         },
         {
           "atomType": "Input",
@@ -2526,8 +2526,8 @@
         {
           "atomType": "Code",
           "name": "Code",
-          "x": 0.6578073089700998,
-          "y": 0.6770186335403726,
+          "x": 0.6495016611295681,
+          "y": 0.7049689440993789,
           "uniqueID": "738f734a-1e68-44d7-a8fb-b508e5ac681a",
           "ioValues": [
             {
