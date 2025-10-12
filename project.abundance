@@ -55,7 +55,7 @@
         }
       ],
       "codeVersion": 1,
-      "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n  const height = 100;\n\n      const profile = replicad.draw()\n        .bulgeArc(\n   135, \n   80, \n  .51).lineTo([100,90,5]).\n  bulgeArcTo(\n   [50,20,0], -.31).\n         bulgeArcTo(\n   [0,0,0], .51)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
+      "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n  const height = 100;\n\n      const profile = replicad.draw()\n        \n        .bulgeArcTo(\n  [32,50,0],0.31)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
     },
     {
       "atomType": "Circle",
