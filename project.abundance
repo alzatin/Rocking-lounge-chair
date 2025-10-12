@@ -1593,8 +1593,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.4111295681063123,
-          "y": 0.7795031055900621,
+          "x": 0.4210963455149501,
+          "y": 0.7608695652173914,
           "uniqueID": "115c4e59-0893-487e-8a65-c23bbcb24d41",
           "ioValues": [
             {
@@ -1861,17 +1861,19 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.5257475083056479,
-          "y": 0.6086956521739131,
+          "x": 0.5415282392026578,
+          "y": 0.7981366459627329,
           "uniqueID": "f73ad9a2-73e3-4f01-9e6e-2ac614c375e7",
           "ioValues": [
             {
               "name": "MoveX",
-              "ioValue": 3
+              "ioValue": 0,
+              "currentEquation": "0"
             },
             {
               "name": "MoveY",
-              "ioValue": 1.7
+              "ioValue": 0,
+              "currentEquation": "0"
             },
             {
               "name": "MoveZ",
@@ -1887,8 +1889,8 @@
             },
             {
               "name": "RotZ",
-              "ioValue": 0,
-              "currentEquation": "0"
+              "ioValue": -10,
+              "currentEquation": "-10"
             }
           ],
           "topLevel": false,
@@ -1973,11 +1975,11 @@
               "ioValues": [
                 {
                   "name": "xDist",
-                  "ioValue": 3
+                  "ioValue": 0
                 },
                 {
                   "name": "yDist",
-                  "ioValue": 1.7
+                  "ioValue": 0
                 },
                 {
                   "name": "zDist",
@@ -2002,7 +2004,7 @@
                 },
                 {
                   "name": "z-axis degrees",
-                  "ioValue": 0
+                  "ioValue": -10
                 }
               ]
             }
