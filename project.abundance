@@ -41,6 +41,25 @@
       "uniqueID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
       "ioValues": [],
       "type": "number"
+    },
+    {
+      "atomType": "Code",
+      "name": "Code",
+      "x": 0.4742524916943522,
+      "y": 0.4906832298136645,
+      "uniqueID": "4b0083a0-3e14-47ff-9dd6-0a11b63bcdce",
+      "ioValues": [
+        {
+          "name": "dist",
+          "ioValue": 5
+        },
+        {
+          "name": "height",
+          "ioValue": 10
+        }
+      ],
+      "codeVersion": 1,
+      "code": "\n      const Inputs = [\n       {inputName: \"shape\", type: \"geometry\", defaultValue: null},\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        {inputName: \"height\", type: \"number\", defaultValue: 10}\n      ]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n\n      //Gets the shape from the library - no need to clone or access geometry directly\n      let importedShape = library[shape]\n\n      //Use the built-in Move function to move the shape in the X direction\n      let movedShape = await Move(importedShape, dist, 0, 0)\n\n      //Use the built-in Rotate function to rotate the shape\n      let rotatedShape = await Rotate(importedShape, 0, 45, 0)\n\n      //Use the built-in Scale function to make the shape smaller\n      let scaledShape = await Scale(importedShape, 0.8)\n\n      //Console.log works for debugging to better see what is happening under the hood\n      console.log(\"Original shape bounds:\", GetBounds(importedShape))\n      console.log(\"Moved shape bounds:\", GetBounds(movedShape))\n\n      //Create a new shape from scratch using replicad\n      let createdRectangle = replicad.drawParametricFunction( (t: number) => [Math.cos(t), Math.sin(t), 0.15 * t], // helix param\n    {\n      domain: [0, Math.PI * 6],    // t runs from 0 to 6π\n      segments: 600,               // number of samples along the curve\n      thickness: 2.0,              // tube radius (units depend on scene units, e.g., mm)\n      radialSegments: 16,          // cross-section resolution for the tube\n      cap: \"round\",                // how the ends are capped: \"butt\" | \"round\" | \"square\"\n      color: \"#e63946\",            // optional visualization color\n      // closed: false,            // optional if you want a closed loop\n    }\n  );\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = createdRectangle.sketchOnPlane(newPlane).extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
     }
   ],
   "allConnectors": [],
