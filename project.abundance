@@ -3205,13 +3205,13 @@
           "ioValues": [
             {
               "name": "movex",
-              "ioValue": 3.5,
-              "currentEquation": "3.5"
+              "ioValue": 3.2,
+              "currentEquation": "3.2"
             },
             {
               "name": "movey",
-              "ioValue": -2.5,
-              "currentEquation": "-2.5"
+              "ioValue": -1.9,
+              "currentEquation": "-1.9"
             },
             {
               "name": "movez",
@@ -3227,13 +3227,13 @@
             },
             {
               "name": "rotatez",
-              "ioValue": 5,
-              "currentEquation": "5"
+              "ioValue": 4.1,
+              "currentEquation": "4.1"
             },
             {
               "name": "count",
-              "ioValue": 10,
-              "currentEquation": "10"
+              "ioValue": 15,
+              "currentEquation": "15"
             }
           ],
           "topLevel": false,
@@ -3255,7 +3255,7 @@
               "ioValues": [
                 {
                   "name": "count",
-                  "ioValue": 10
+                  "ioValue": 15
                 },
                 {
                   "name": "rotateX",
@@ -3267,15 +3267,15 @@
                 },
                 {
                   "name": "rotateZ",
-                  "ioValue": 5
+                  "ioValue": 4.1
                 },
                 {
                   "name": "moveX",
-                  "ioValue": 3.5
+                  "ioValue": 3.2
                 },
                 {
                   "name": "moveY",
-                  "ioValue": -2.5
+                  "ioValue": -1.9
                 },
                 {
                   "name": "moveZ",
