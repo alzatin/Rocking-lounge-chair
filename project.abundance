@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Rocking-lounge-chair",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "b3246891-660b-42fe-9d20-25dfebf4f9bc",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Inches",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
