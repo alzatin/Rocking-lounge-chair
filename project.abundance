@@ -11,7 +11,8 @@
     },
     {
       "name": "py thickness",
-      "ioValue": 10
+      "ioValue": 0.75,
+      "currentEquation": ".75"
     }
   ],
   "topLevel": true,
@@ -45,33 +46,31 @@
     {
       "atomType": "Code",
       "name": "Code",
-      "x": 0.4426910299003322,
-      "y": 0.40062111801242234,
+      "x": 0.3164451827242525,
+      "y": 0.37577639751552794,
       "uniqueID": "4b0083a0-3e14-47ff-9dd6-0a11b63bcdce",
       "ioValues": [
         {
           "name": "dist",
           "ioValue": 5
+        },
+        {
+          "name": "height",
+          "ioValue": 0.75
         }
       ],
       "codeVersion": 1,
-      "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n  const height = 100;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
-    },
-    {
-      "atomType": "Circle",
-      "name": "Circle",
-      "x": 0.3023255813953489,
-      "y": 0.5931677018633541,
-      "uniqueID": "85081608-60ff-41b8-82ec-9915e77efdd3",
-      "ioValues": [
-        {
-          "name": "diameter",
-          "ioValue": 10
-        }
-      ]
+      "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
     }
   ],
-  "allConnectors": [],
+  "allConnectors": [
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "height",
+      "ap1ID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
+      "ap2ID": "4b0083a0-3e14-47ff-9dd6-0a11b63bcdce"
+    }
+  ],
   "unitsKey": "Inches",
   "fileTypeVersion": 1,
   "compiledBom": {},
