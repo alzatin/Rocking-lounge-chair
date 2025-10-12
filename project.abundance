@@ -48,7 +48,16 @@
       "x": 0.318936877076412,
       "y": 0.2639751552795031,
       "uniqueID": "2a82e5d6-3709-431e-917e-eb432985ae5f",
-      "ioValues": [],
+      "ioValues": [
+        {
+          "name": "py thickness",
+          "ioValue": 0.75
+        },
+        {
+          "name": "Seat Width",
+          "ioValue": 24
+        }
+      ],
       "topLevel": false,
       "allAtoms": [
         {
@@ -104,7 +113,12 @@
           "x": 0.26578073089700993,
           "y": 0.5931677018633541,
           "uniqueID": "57af0ef6-9873-4956-9ffc-222998faeb6a",
-          "ioValues": [],
+          "ioValues": [
+            {
+              "name": "x",
+              "ioValue": 24
+            }
+          ],
           "currentEquation": "x - 2"
         },
         {
@@ -117,6 +131,10 @@
             {
               "name": "xDist",
               "ioValue": 0
+            },
+            {
+              "name": "yDist",
+              "ioValue": 22
             },
             {
               "name": "zDist",
@@ -133,11 +151,261 @@
           "ioValues": [
             {
               "name": "Shape 1",
-              "ioValue": null
+              "ioValue": {
+                "geometry": [
+                  {
+                    "geometry": "move-49d3cdbbefd47d21c2a7b869c81d02e8e6bde44589fe415b445a347a0add3232",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-c2d5acc7fd84b05b8f0cda6edbf0256a66dc23c7a74180f59f1a8bfcf9e44c88",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-a9b6fe6e35aedb010986ff687d0a25dcab720d5dec404ff60fb853890a09bd70",
+                    "tags": [],
+                    "color": "#aad7f2",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  },
+                  {
+                    "geometry": "move-3a97907eeefefce9a5580fd99e778eb4970237260a729a34b3d66443be7b2728",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              }
             },
             {
               "name": "Shape 2",
-              "ioValue": null
+              "ioValue": {
+                "geometry": [
+                  {
+                    "geometry": "rotate-6711c4b4daa90a0a5f8ed53d36d291aab00e7049e4cea56292be0dd861a69a93",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  },
+                  {
+                    "geometry": "rotate-339378564fc474082186d32fbc402bf3ffcab1a4a0f416eae2ddec3b7b3f1cac",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  },
+                  {
+                    "geometry": "rotate-833a5aeb37cbb85563cdbae18a70d620d121f1612e91b404c4730edfb353b519",
+                    "tags": [],
+                    "color": "#aad7f2",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  },
+                  {
+                    "geometry": "rotate-a920e610ca801a2965fe5d47e8ca013af2bb7d8e6a6b123feb6f0c445a9d87a9",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              }
             }
           ]
         },
@@ -147,7 +415,12 @@
           "x": 0.23588039867109634,
           "y": 0.36024844720496896,
           "uniqueID": "08c06ede-d255-4009-aff4-b2c075ca8ee8",
-          "ioValues": [],
+          "ioValues": [
+            {
+              "name": "py thickness",
+              "ioValue": 0.75
+            }
+          ],
           "topLevel": false,
           "allAtoms": [
             {
@@ -168,6 +441,10 @@
                 {
                   "name": "dist",
                   "ioValue": 5
+                },
+                {
+                  "name": "height",
+                  "ioValue": 0.75
                 }
               ],
               "codeVersion": 1,
@@ -242,19 +519,117 @@
               "ioValues": [
                 {
                   "name": "Shape 1",
-                  "ioValue": null
+                  "ioValue": {
+                    "geometry": "cut-6a438916e596682dbe611e31d59ab5fcbf8aec59e35cc62db5952b4569741e74",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  }
                 },
                 {
                   "name": "Shape 2",
-                  "ioValue": null
+                  "ioValue": {
+                    "geometry": "move-b93439858372c67991d0f6e61eabb0e930788ab362a3c9b1295395637dfd0cf1",
+                    "dimension": "3D",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": []
+                  }
                 },
                 {
                   "name": "Shape 3",
-                  "ioValue": null
+                  "ioValue": {
+                    "geometry": "intersect-c51d74b86225a7a435b7911d9a8e603f186539e2cbf1fa1ed5ec37e25d9a227d",
+                    "tags": [],
+                    "color": "#aad7f2",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  }
                 },
                 {
                   "name": "Shape 4",
-                  "ioValue": null
+                  "ioValue": {
+                    "geometry": "move-ffb95c9ccda5f48eb43d8132786651929303bd3a9e22ada0b486e0a676c3a84e",
+                    "tags": [
+                      "createdShape"
+                    ],
+                    "color": "#A3CE5B",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "bom": [],
+                    "dimension": "3D"
+                  }
                 }
               ]
             },
@@ -330,6 +705,10 @@
                 {
                   "name": "yDist",
                   "ioValue": 0
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0.75
                 }
               ]
             },
@@ -558,14 +937,18 @@
     },
     {
       "atomType": "Molecule",
-      "name": "Molecule",
-      "x": 0.29983388704318936,
-      "y": 0.6055900621118013,
+      "name": "Slots",
+      "x": 0.3048172757475083,
+      "y": 0.6118012422360248,
       "uniqueID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c",
       "ioValues": [
         {
-          "name": "Input (1)",
-          "ioValue": 10
+          "name": "py thickness",
+          "ioValue": 0.75
+        },
+        {
+          "name": "Seat Width",
+          "ioValue": 24
         }
       ],
       "topLevel": false,
@@ -581,8 +964,8 @@
         {
           "atomType": "Assembly",
           "name": "Assembly",
-          "x": 0.7375415282392027,
-          "y": 0.4440993788819876,
+          "x": 0.7383720930232558,
+          "y": 0.4409937888198758,
           "uniqueID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f",
           "ioValues": [
             {
@@ -590,7 +973,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "cut-339cd7736ea4eb1ee16d98c6f27b66df73285cd885a943be75d5b6898256a395",
+                    "geometry": "cut-bc6e9fbe7e4fed136ef64544b25ea8bbcce7cff08961c30bc71ed5877e1c3968",
                     "dimension": "3D",
                     "tags": [
                       "createdShape"
@@ -616,7 +999,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "cut-7b3a5c2efc9fdc41930017a84e16e2cfa33a71cbd6cd9086eabd0991884708e6",
+                    "geometry": "cut-b09c58da85efa73395fa2b97a5e68eac89b670778ae1a91e3ff2b105eaad92b0",
                     "dimension": "3D",
                     "tags": [
                       "createdShape"
@@ -642,7 +1025,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "cut-c7a00dc69734478acff440c2cb06f02ea79c48cc616ee669172e1e230b4d14da",
+                    "geometry": "cut-0220cb532990bef6b87b03dc7e782d1c74d5932080688d8a1a7e2177bedd7e3e",
                     "tags": [],
                     "color": "#aad7f2",
                     "plane": {
@@ -666,7 +1049,7 @@
                     "dimension": "3D"
                   },
                   {
-                    "geometry": "move-856f47a7f71e32c0dc678853dbfb0da597c0dadee9b08a887338b73a5c5f1aae",
+                    "geometry": "move-48e1ca14182beb8da6b1dfa648d84c5fab070fbedf834fe3bdb74ee83688a58d",
                     "tags": [
                       "createdShape"
                     ],
@@ -718,57 +1101,28 @@
           ]
         },
         {
-          "atomType": "Input",
-          "name": "Input (1)",
-          "x": 0.025384615384615384,
-          "y": 0.7422360248447205,
-          "uniqueID": "fd498b48-b733-4338-b2c6-ffe2c39df891",
-          "ioValues": [],
-          "type": "number"
-        },
-        {
           "atomType": "Rectangle",
           "name": "Rectangle",
-          "x": 0.4086378737541528,
-          "y": 0.6645962732919254,
+          "x": 0.19933554817275748,
+          "y": 0.5807453416149069,
           "uniqueID": "318d4d78-4ac9-4b76-a6ff-b7152198fca6",
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 10
+              "ioValue": 2,
+              "currentEquation": "2"
             },
             {
               "name": "y length",
-              "ioValue": 10
-            }
-          ]
-        },
-        {
-          "atomType": "Move",
-          "name": "Move",
-          "x": 0.5872093023255814,
-          "y": 0.6708074534161491,
-          "uniqueID": "b42da759-26b4-4636-a7fa-97ee95220256",
-          "ioValues": [
-            {
-              "name": "xDist",
-              "ioValue": 0
-            },
-            {
-              "name": "yDist",
-              "ioValue": 0
-            },
-            {
-              "name": "zDist",
-              "ioValue": 0
+              "ioValue": 0.75
             }
           ]
         },
         {
           "atomType": "Molecule",
           "name": "Side",
-          "x": 0.40282392026578073,
-          "y": 0.2080745341614907,
+          "x": 0.18023255813953487,
+          "y": 0.2857142857142857,
           "uniqueID": "8b6fb447-1550-487b-b9f2-a18b1ab06da9",
           "ioValues": [
             {
@@ -875,7 +1229,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "cut-3f8f79f40d0c6a102215545da6b3672bc0fc2c21646f1e3eb877fbe9e6fd2429",
+                    "geometry": "cut-222621f3ddd4f7a9b69a2a51c892f6827187cabd2263543c0d6196896742c7f1",
                     "dimension": "3D",
                     "tags": [
                       "createdShape"
@@ -904,7 +1258,7 @@
                 {
                   "name": "Shape 2",
                   "ioValue": {
-                    "geometry": "move-bb48c9c3371048edbcf02bbaed195e81064c0e4aa8a5bc182968e02dde5c9940",
+                    "geometry": "move-8b22cbf4d1d8ea8076be71f90d981c6925fa734a4da091de85f9c02f7943055f",
                     "dimension": "3D",
                     "tags": [
                       "createdShape"
@@ -933,7 +1287,7 @@
                 {
                   "name": "Shape 3",
                   "ioValue": {
-                    "geometry": "intersect-db3858a3fb1ab47721303dddcae436c1d2fe9b42b123b35482cc6b8914350da8",
+                    "geometry": "intersect-7fc5a59de370dc7a6f7c2fcf87d6958cb424d0fa179dc2a64af4139da2b775af",
                     "tags": [],
                     "color": "#aad7f2",
                     "plane": {
@@ -960,7 +1314,7 @@
                 {
                   "name": "Shape 4",
                   "ioValue": {
-                    "geometry": "move-856f47a7f71e32c0dc678853dbfb0da597c0dadee9b08a887338b73a5c5f1aae",
+                    "geometry": "move-48e1ca14182beb8da6b1dfa648d84c5fab070fbedf834fe3bdb74ee83688a58d",
                     "tags": [
                       "createdShape"
                     ],
@@ -1237,23 +1591,504 @@
           "compiledBom": []
         },
         {
-          "atomType": "Code",
-          "name": "Code",
-          "x": 0.27408637873754155,
-          "y": 0.6801242236024845,
-          "uniqueID": "b46cea34-700c-4033-bc5f-b788ceefd00a",
+          "atomType": "GitHubMolecule",
+          "name": "Move-rotate",
+          "x": 0.4111295681063123,
+          "y": 0.7795031055900621,
+          "uniqueID": "115c4e59-0893-487e-8a65-c23bbcb24d41",
           "ioValues": [
             {
-              "name": "dist",
-              "ioValue": 5
+              "name": "MoveX",
+              "ioValue": 3,
+              "currentEquation": "3"
             },
             {
-              "name": "height",
-              "ioValue": 10
+              "name": "MoveY",
+              "ioValue": 1.7,
+              "currentEquation": "1.7"
+            },
+            {
+              "name": "MoveZ",
+              "ioValue": 0,
+              "currentEquation": "0"
+            },
+            {
+              "name": "RotX",
+              "ioValue": 0,
+              "currentEquation": "0"
+            },
+            {
+              "name": "RotY",
+              "ioValue": 0,
+              "currentEquation": "0"
+            },
+            {
+              "name": "RotZ",
+              "ioValue": 49,
+              "currentEquation": "49"
             }
           ],
-          "codeVersion": 1,
-          "code": "\n      const Inputs = [\n       {inputName: \"shape\", type: \"geometry\", defaultValue: null},\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        {inputName: \"height\", type: \"number\", defaultValue: 10}\n      ]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n\n      //Gets the shape from the library - no need to clone or access geometry directly\n      let importedShape = library[shape]\n\n      //Use the built-in Move function to move the shape in the X direction\n      let movedShape = await Move(importedShape, dist, 0, 0)\n\n      //Use the built-in Rotate function to rotate the shape\n      let rotatedShape = await Rotate(importedShape, 0, 45, 0)\n\n      //Use the built-in Scale function to make the shape smaller\n      let scaledShape = await Scale(importedShape, 0.8)\n\n      //Console.log works for debugging to better see what is happening under the hood\n      console.log(\"Original shape bounds:\", GetBounds(importedShape))\n      console.log(\"Moved shape bounds:\", GetBounds(movedShape))\n\n      //Create a new shape from scratch using replicad\n      let createdRectangle = replicad.drawRectangle(5, 7)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = createdRectangle.sketchOnPlane(newPlane).extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n      //Use the built-in Fillet function to round the edges\n      let filletedShape = await Fillet(shape2, 0.5)\n\n      //Use the built-in Chamfer function to bevel the edges  \n      let chamferedShape = await Chamfer(movedShape, 0.3)\n\n      //Use the built-in Assembly function to combine multiple shapes\n      let finalAssembly = await Assembly([rotatedShape, scaledShape, filletedShape, chamferedShape])\n\n      //You can also create boolean operations using Intersect\n      //let intersection = await Intersect(movedShape, rotatedShape)\n\n      return finalAssembly\n\n      /**\n      Built-in Functions Available:\n      - Move(geometry, x, y, z) - Move a shape in 3D space\n      - Rotate(geometry, x, y, z) - Rotate a shape around X, Y, Z axes (degrees)\n      - Scale(geometry, factor) - Scale a shape by a factor\n      - Assembly([shapes]) - Combine multiple shapes into an assembly\n      - Intersect(shape1, shape2) - Boolean intersection of two shapes\n      - GetBounds(geometry) - Get the bounding box of a shape\n      - Fillet(geometry, radius) - Round edges with specified radius\n      - Chamfer(geometry, size) - Bevel edges with specified size\n\n      To Use the Code Atom, enter your inputs to the input list as an object array:\n      const Inputs = [\n        {inputName: \"shape\", type: \"geometry\", defaultValue: null},\n        {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        {inputName: \"height\", type: \"number\", defaultValue: 10}\n      ]\n\n      Access imported geometry using library[inputName] - the built-in functions handle \n      the complexity of accessing geometry arrays and maintaining metadata automatically.\n\n      Simple Example - Move a shape:\n         const Inputs = [\n          {inputName: \"shape\", type: \"geometry\", defaultValue: null},\n          {inputName: \"x\", type: \"number\", defaultValue: 5}\n        ]\n        let movedShape = await Move(library[shape], x, 0, 0)\n        return movedShape\n      */\n      "
+          "topLevel": false,
+          "allAtoms": [
+            {
+              "atomType": "Output",
+              "name": "Output",
+              "x": 0.98,
+              "y": 0.5,
+              "uniqueID": "cdb298b1-375a-469a-9b50-1db07c3a8306",
+              "ioValues": []
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveX",
+              "x": 0.025384615384615384,
+              "y": 0.2111801242236025,
+              "uniqueID": "483d8549-20fc-4f9c-9f28-b09a2090fdf7",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveY",
+              "x": 0.025384615384615384,
+              "y": 0.3198757763975155,
+              "uniqueID": "40727561-5462-4ff4-931c-e18cdaff5a2a",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveZ",
+              "x": 0.025384615384615384,
+              "y": 0.43788819875776397,
+              "uniqueID": "a8363630-3773-47e0-bb94-630a6cae2640",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotX",
+              "x": 0.025384615384615384,
+              "y": 0.6521739130434783,
+              "uniqueID": "586e764d-24e0-41d6-9e26-3b94f2d83eb4",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotY",
+              "x": 0.025384615384615384,
+              "y": 0.7298136645962733,
+              "uniqueID": "4d081603-b136-43cb-b0d6-ae984012b7f3",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotZ",
+              "x": 0.025384615384615384,
+              "y": 0.8354037267080745,
+              "uniqueID": "7c6e4aae-c18a-4d02-af5c-f1a29ab92c40",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "Shape",
+              "x": 0.025384615384615384,
+              "y": 0.5652173913043479,
+              "uniqueID": "b9d685fe-62e0-4ce8-a864-0e1ef1a04dce",
+              "ioValues": [],
+              "type": "geometry"
+            },
+            {
+              "atomType": "Move",
+              "name": "Move",
+              "x": 0.44352159468438535,
+              "y": 0.3447204968944099,
+              "uniqueID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4",
+              "ioValues": [
+                {
+                  "name": "xDist",
+                  "ioValue": 3
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 1.7
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
+            },
+            {
+              "atomType": "Rotate",
+              "name": "Rotate",
+              "x": 0.6735880398671096,
+              "y": 0.48136645962732916,
+              "uniqueID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4",
+              "ioValues": [
+                {
+                  "name": "x-axis degrees",
+                  "ioValue": 0
+                },
+                {
+                  "name": "y-axis degrees",
+                  "ioValue": 0
+                },
+                {
+                  "name": "z-axis degrees",
+                  "ioValue": 49
+                }
+              ]
+            }
+          ],
+          "allConnectors": [
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "xDist",
+              "ap1ID": "483d8549-20fc-4f9c-9f28-b09a2090fdf7",
+              "ap2ID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "yDist",
+              "ap1ID": "40727561-5462-4ff4-931c-e18cdaff5a2a",
+              "ap2ID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "zDist",
+              "ap1ID": "a8363630-3773-47e0-bb94-630a6cae2640",
+              "ap2ID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "x-axis degrees",
+              "ap1ID": "586e764d-24e0-41d6-9e26-3b94f2d83eb4",
+              "ap2ID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "y-axis degrees",
+              "ap1ID": "4d081603-b136-43cb-b0d6-ae984012b7f3",
+              "ap2ID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "z-axis degrees",
+              "ap1ID": "7c6e4aae-c18a-4d02-af5c-f1a29ab92c40",
+              "ap2ID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "geometry",
+              "ap1ID": "b9d685fe-62e0-4ce8-a864-0e1ef1a04dce",
+              "ap2ID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4"
+            },
+            {
+              "ap1Name": "geometry",
+              "ap2Name": "geometry",
+              "ap1ID": "c4f3f353-8924-4862-b8c2-426bfcbce7d4",
+              "ap2ID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4"
+            },
+            {
+              "ap1Name": "geometry",
+              "ap2Name": "number or geometry",
+              "ap1ID": "5d0fc3dd-740b-46a6-bf19-b50be06c5bd4",
+              "ap2ID": "cdb298b1-375a-469a-9b50-1db07c3a8306"
+            }
+          ],
+          "parentRepo": {
+            "privateRepo": false,
+            "repoName": "Move-rotate",
+            "dateCreated": "2025-10-12T19:15:23Z",
+            "readMe": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/README.md?sanitize=true",
+            "yyyy": 2025,
+            "topMoleculeID": "622f58aa-9660-4173-b35d-318e70614e9a",
+            "githubMoleculesUsed": [],
+            "html_url": "https://github.com/alzatin/Move-rotate",
+            "topics": [
+              "abundance-tool"
+            ],
+            "parentRepo": null,
+            "forks": 0,
+            "dateModified": "739536",
+            "ranking": 0,
+            "searchField": "move-rotate alzatin moves and rotates  abundance-tool",
+            "owner": "alzatin",
+            "description": "Moves and rotates ",
+            "contentURL": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/project.abundance?sanitize=true",
+            "svgURL": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/project.svg?sanitize=true",
+            "isLocal": false
+          },
+          "unitsKey": "Inches",
+          "fileTypeVersion": 1,
+          "compiledBom": []
+        },
+        {
+          "atomType": "Input",
+          "name": "py thickness",
+          "x": 0.025384615384615384,
+          "y": 0.6118012422360248,
+          "uniqueID": "cbc922f0-0eee-4aa9-bb26-ec88668f09a9",
+          "ioValues": [],
+          "type": "number"
+        },
+        {
+          "atomType": "Input",
+          "name": "Seat Width",
+          "x": 0.025384615384615384,
+          "y": 0.7701863354037267,
+          "uniqueID": "ace0fe78-0c6c-43ef-9ff0-f6eee3c5a7fd",
+          "ioValues": [],
+          "type": "number"
+        },
+        {
+          "atomType": "Extrude",
+          "name": "Extrude",
+          "x": 0.28654485049833883,
+          "y": 0.7608695652173914,
+          "uniqueID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361",
+          "ioValues": [
+            {
+              "name": "height",
+              "ioValue": 24
+            }
+          ]
+        },
+        {
+          "atomType": "GitHubMolecule",
+          "name": "Move-rotate",
+          "x": 0.5257475083056479,
+          "y": 0.6086956521739131,
+          "uniqueID": "f73ad9a2-73e3-4f01-9e6e-2ac614c375e7",
+          "ioValues": [
+            {
+              "name": "MoveX",
+              "ioValue": 3
+            },
+            {
+              "name": "MoveY",
+              "ioValue": 1.7
+            },
+            {
+              "name": "MoveZ",
+              "ioValue": 0
+            },
+            {
+              "name": "RotX",
+              "ioValue": 0
+            },
+            {
+              "name": "RotY",
+              "ioValue": 0
+            },
+            {
+              "name": "RotZ",
+              "ioValue": 0,
+              "currentEquation": "0"
+            }
+          ],
+          "topLevel": false,
+          "allAtoms": [
+            {
+              "atomType": "Output",
+              "name": "Output",
+              "x": 0.98,
+              "y": 0.5,
+              "uniqueID": "68fdcd75-8a44-4605-924d-3b1ed1c235ba",
+              "ioValues": []
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveX",
+              "x": 0.025384615384615384,
+              "y": 0.2111801242236025,
+              "uniqueID": "a5fd35de-f5cc-49a2-b647-8739986920d7",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveY",
+              "x": 0.025384615384615384,
+              "y": 0.3198757763975155,
+              "uniqueID": "468b034d-c15b-478f-b6e5-33c42a41ef1b",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "MoveZ",
+              "x": 0.025384615384615384,
+              "y": 0.43788819875776397,
+              "uniqueID": "3cdfd795-ec78-4768-b693-0cad7d4e8151",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotX",
+              "x": 0.025384615384615384,
+              "y": 0.6521739130434783,
+              "uniqueID": "e9403d75-f9a2-4890-9ab6-f588b2d43914",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotY",
+              "x": 0.025384615384615384,
+              "y": 0.7298136645962733,
+              "uniqueID": "71dc5a2d-1d26-41a7-8ba9-111c71ba06bd",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "RotZ",
+              "x": 0.025384615384615384,
+              "y": 0.8354037267080745,
+              "uniqueID": "c1f9f140-ffef-4b4d-8163-87c025649fc9",
+              "ioValues": [],
+              "type": "number"
+            },
+            {
+              "atomType": "Input",
+              "name": "Shape",
+              "x": 0.025384615384615384,
+              "y": 0.5652173913043479,
+              "uniqueID": "3b26c6ad-0dd6-4897-af71-12a6cd890c0f",
+              "ioValues": [],
+              "type": "geometry"
+            },
+            {
+              "atomType": "Move",
+              "name": "Move",
+              "x": 0.44352159468438535,
+              "y": 0.3447204968944099,
+              "uniqueID": "219898c9-d92f-4f0d-9327-dbf14731e55e",
+              "ioValues": [
+                {
+                  "name": "xDist",
+                  "ioValue": 3
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 1.7
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
+            },
+            {
+              "atomType": "Rotate",
+              "name": "Rotate",
+              "x": 0.6735880398671096,
+              "y": 0.48136645962732916,
+              "uniqueID": "c1540829-857d-4024-820d-a0998a7aa13b",
+              "ioValues": [
+                {
+                  "name": "x-axis degrees",
+                  "ioValue": 0
+                },
+                {
+                  "name": "y-axis degrees",
+                  "ioValue": 0
+                },
+                {
+                  "name": "z-axis degrees",
+                  "ioValue": 0
+                }
+              ]
+            }
+          ],
+          "allConnectors": [
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "xDist",
+              "ap1ID": "a5fd35de-f5cc-49a2-b647-8739986920d7",
+              "ap2ID": "219898c9-d92f-4f0d-9327-dbf14731e55e"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "yDist",
+              "ap1ID": "468b034d-c15b-478f-b6e5-33c42a41ef1b",
+              "ap2ID": "219898c9-d92f-4f0d-9327-dbf14731e55e"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "zDist",
+              "ap1ID": "3cdfd795-ec78-4768-b693-0cad7d4e8151",
+              "ap2ID": "219898c9-d92f-4f0d-9327-dbf14731e55e"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "x-axis degrees",
+              "ap1ID": "e9403d75-f9a2-4890-9ab6-f588b2d43914",
+              "ap2ID": "c1540829-857d-4024-820d-a0998a7aa13b"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "y-axis degrees",
+              "ap1ID": "71dc5a2d-1d26-41a7-8ba9-111c71ba06bd",
+              "ap2ID": "c1540829-857d-4024-820d-a0998a7aa13b"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "z-axis degrees",
+              "ap1ID": "c1f9f140-ffef-4b4d-8163-87c025649fc9",
+              "ap2ID": "c1540829-857d-4024-820d-a0998a7aa13b"
+            },
+            {
+              "ap1Name": "number or geometry",
+              "ap2Name": "geometry",
+              "ap1ID": "3b26c6ad-0dd6-4897-af71-12a6cd890c0f",
+              "ap2ID": "219898c9-d92f-4f0d-9327-dbf14731e55e"
+            },
+            {
+              "ap1Name": "geometry",
+              "ap2Name": "geometry",
+              "ap1ID": "219898c9-d92f-4f0d-9327-dbf14731e55e",
+              "ap2ID": "c1540829-857d-4024-820d-a0998a7aa13b"
+            },
+            {
+              "ap1Name": "geometry",
+              "ap2Name": "number or geometry",
+              "ap1ID": "c1540829-857d-4024-820d-a0998a7aa13b",
+              "ap2ID": "68fdcd75-8a44-4605-924d-3b1ed1c235ba"
+            }
+          ],
+          "parentRepo": {
+            "privateRepo": false,
+            "repoName": "Move-rotate",
+            "dateCreated": "2025-10-12T19:15:23Z",
+            "readMe": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/README.md?sanitize=true",
+            "yyyy": 2025,
+            "topMoleculeID": "622f58aa-9660-4173-b35d-318e70614e9a",
+            "githubMoleculesUsed": [],
+            "html_url": "https://github.com/alzatin/Move-rotate",
+            "topics": [
+              "abundance-tool"
+            ],
+            "parentRepo": null,
+            "forks": 0,
+            "dateModified": "739536",
+            "ranking": 0,
+            "searchField": "move-rotate alzatin moves and rotates  abundance-tool",
+            "owner": "alzatin",
+            "description": "Moves and rotates ",
+            "contentURL": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/project.abundance?sanitize=true",
+            "svgURL": "https://raw.githubusercontent.com/alzatin/Move-rotate/master/project.svg?sanitize=true",
+            "isLocal": false
+          },
+          "unitsKey": "Inches",
+          "fileTypeVersion": 1,
+          "compiledBom": []
         }
       ],
       "allConnectors": [
@@ -1267,13 +2102,37 @@
           "ap1Name": "geometry",
           "ap2Name": "geometry",
           "ap1ID": "318d4d78-4ac9-4b76-a6ff-b7152198fca6",
-          "ap2ID": "b42da759-26b4-4636-a7fa-97ee95220256"
+          "ap2ID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361"
         },
         {
           "ap1Name": "geometry or number",
           "ap2Name": "Shape 1",
           "ap1ID": "8b6fb447-1550-487b-b9f2-a18b1ab06da9",
           "ap2ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f"
+        },
+        {
+          "ap1Name": "geometry or number",
+          "ap2Name": "Shape",
+          "ap1ID": "115c4e59-0893-487e-8a65-c23bbcb24d41",
+          "ap2ID": "f73ad9a2-73e3-4f01-9e6e-2ac614c375e7"
+        },
+        {
+          "ap1Name": "number or geometry",
+          "ap2Name": "y length",
+          "ap1ID": "cbc922f0-0eee-4aa9-bb26-ec88668f09a9",
+          "ap2ID": "318d4d78-4ac9-4b76-a6ff-b7152198fca6"
+        },
+        {
+          "ap1Name": "number or geometry",
+          "ap2Name": "height",
+          "ap1ID": "ace0fe78-0c6c-43ef-9ff0-f6eee3c5a7fd",
+          "ap2ID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361"
+        },
+        {
+          "ap1Name": "geometry",
+          "ap2Name": "Shape",
+          "ap1ID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361",
+          "ap2ID": "115c4e59-0893-487e-8a65-c23bbcb24d41"
         }
       ],
       "fileTypeVersion": 1,
@@ -1289,9 +2148,21 @@
     },
     {
       "ap1Name": "number or geometry",
+      "ap2Name": "Seat Width",
+      "ap1ID": "a28ea2f9-8bda-4ac9-aed6-4a996afbad73",
+      "ap2ID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c"
+    },
+    {
+      "ap1Name": "number or geometry",
       "ap2Name": "py thickness",
       "ap1ID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
       "ap2ID": "2a82e5d6-3709-431e-917e-eb432985ae5f"
+    },
+    {
+      "ap1Name": "number or geometry",
+      "ap2Name": "py thickness",
+      "ap1ID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
+      "ap2ID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c"
     }
   ],
   "unitsKey": "Inches",
