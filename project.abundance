@@ -1690,6 +1690,418 @@
                 "tags": [],
                 "bom": []
               }
+            },
+            {
+              "name": "Shape 6",
+              "ioValue": {
+                "geometry": [
+                  {
+                    "geometry": "singular-359751cc886fe19789ed161f0c99dd25535df8ea1bb9669184e101aa838a0766",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-c63f7b5c2e10a2833e0e71f5ff9d4994f18a692c215bcfaa160c0094d3bdb74b",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-4a5e6ad54faa2bc35614eef2718028839e49eb3696f3e587fa5a2a3d4ec8af2b",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-fba42b6fdabfce92a276974c10d36373247fcb21de060bc3dfe6277a1e6dc873",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-ebfb37cbc2a38e80fe5fe78c910e72d36ed5c159ce671897bf599a38a60b8038",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-66a72961f699d5c888ecc1a2bd3add5b9ad67b12334d1278060dec051f61b8d0",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-0a9bd664237ab455a36da002b87ae386e5a4f68b19d74040db82df56ad759966",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-4b784835c2ebf4db58817c435b34f096fb324a49f00f79e2b8bb9d4bf888245a",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-42780de191457f5cccdd97bfa7a22f7fd8a12171284ecbfea5cf62f214cd470c",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-79dc17ce7927fa8118b242bfb5b814102e1dcb1f4fa132ebcf3bdf45837e001e",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-a53c4f0593f5d3c99bf5cb89cb2274f0b4a5e272c32e481cca4b252d352f3716",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-1784f9655b7524d4eafcfd15ef55397a605b282808d16ac9bd4bdf8cdddb8275",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-1c6918c3053562921a3d66fb509c63d6a224732eb2aaeb0dc39b48eec2052305",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-33a7549b319e90de4108f5bc4526470be33ac6b7edd9179a4c7acc60d5a96396",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-69e139f0b6a22295892ac0e10ec4e908b58d772fc6ed6a2ef6e84fa2f4c9bf7e",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "singular-1f98470bb3a7524ac0ccaa5a4da6b52751639e1fb6d4d71beaad02925509004d",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "tags": [],
+                "color": "#aad7f2",
+                "bom": [],
+                "dimension": "3D"
+              }
             }
           ]
         },
@@ -3205,13 +3617,13 @@
           "ioValues": [
             {
               "name": "movex",
-              "ioValue": 3.2,
-              "currentEquation": "3.2"
+              "ioValue": 3,
+              "currentEquation": "3"
             },
             {
               "name": "movey",
-              "ioValue": -1.9,
-              "currentEquation": "-1.9"
+              "ioValue": -1.8,
+              "currentEquation": "-1.8"
             },
             {
               "name": "movez",
@@ -3227,13 +3639,13 @@
             },
             {
               "name": "rotatez",
-              "ioValue": 4.1,
-              "currentEquation": "4.1"
+              "ioValue": 3.9,
+              "currentEquation": "3.9"
             },
             {
               "name": "count",
-              "ioValue": 15,
-              "currentEquation": "15"
+              "ioValue": 16,
+              "currentEquation": "16"
             }
           ],
           "topLevel": false,
@@ -3255,7 +3667,7 @@
               "ioValues": [
                 {
                   "name": "count",
-                  "ioValue": 15
+                  "ioValue": 16
                 },
                 {
                   "name": "rotateX",
@@ -3267,15 +3679,15 @@
                 },
                 {
                   "name": "rotateZ",
-                  "ioValue": 4.1
+                  "ioValue": 3.9
                 },
                 {
                   "name": "moveX",
-                  "ioValue": 3.2
+                  "ioValue": 3
                 },
                 {
                   "name": "moveY",
-                  "ioValue": -1.9
+                  "ioValue": -1.8
                 },
                 {
                   "name": "moveZ",
@@ -3561,6 +3973,12 @@
           "ap1Name": "geometry or number",
           "ap2Name": "Shape 5",
           "ap1ID": "60a9af86-f886-4fc0-beaf-8c68bff0566d",
+          "ap2ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f"
+        },
+        {
+          "ap1Name": "geometry or number",
+          "ap2Name": "Shape 6",
+          "ap1ID": "af569f6b-b09e-4569-a948-19a451377648",
           "ap2ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f"
         }
       ],
