@@ -938,8 +938,8 @@
     {
       "atomType": "Molecule",
       "name": "Slots",
-      "x": 0.3496677740863787,
-      "y": 0.6335403726708074,
+      "x": 0.2931893687707641,
+      "y": 0.4627329192546583,
       "uniqueID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c",
       "ioValues": [
         {
@@ -1205,8 +1205,8 @@
         {
           "atomType": "Molecule",
           "name": "Side",
-          "x": 0.18521594684385384,
-          "y": 0.2795031055900621,
+          "x": 0.1835548172757475,
+          "y": 0.2701863354037267,
           "uniqueID": "8b6fb447-1550-487b-b9f2-a18b1ab06da9",
           "ioValues": [
             {
@@ -2439,6 +2439,28 @@
       ],
       "fileTypeVersion": 1,
       "compiledBom": []
+    },
+    {
+      "atomType": "Molecule",
+      "name": "Molecule",
+      "x": 0.3430232558139535,
+      "y": 0.7577639751552795,
+      "uniqueID": "2d1ac6eb-8238-4db9-a97e-6d7dcb7542c7",
+      "ioValues": [],
+      "topLevel": false,
+      "allAtoms": [
+        {
+          "atomType": "Output",
+          "name": "Output",
+          "x": 0.98,
+          "y": 0.5,
+          "uniqueID": "b797a7bf-5472-4d53-9ae3-2c129c8a1011",
+          "ioValues": []
+        }
+      ],
+      "allConnectors": [],
+      "fileTypeVersion": 1,
+      "compiledBom": {}
     }
   ],
   "allConnectors": [
