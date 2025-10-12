@@ -1,15 +1,51 @@
 {
-    "atomType": "Molecule",
-    "name": "Rocking-lounge-chair",
-    "x": 0,
-    "y": 0,
-    "uniqueID": "b3246891-660b-42fe-9d20-25dfebf4f9bc",
-    "ioValues": [],
-    "topLevel": true,
-    "allAtoms": [],
-    "allConnectors": [],
-    "unitsKey": "Inches",
-    "fileTypeVersion": 1,
-    "compiledBom": {},
-    "filetypeVersion": 1
+  "atomType": "Molecule",
+  "name": "Rocking-lounge-chair",
+  "x": 0,
+  "y": 0,
+  "uniqueID": "b3246891-660b-42fe-9d20-25dfebf4f9bc",
+  "ioValues": [
+    {
+      "name": "Seat Width",
+      "ioValue": 10
+    },
+    {
+      "name": "py thickness",
+      "ioValue": 10
+    }
+  ],
+  "topLevel": true,
+  "allAtoms": [
+    {
+      "atomType": "Output",
+      "name": "Output",
+      "x": 0.98,
+      "y": 0.5,
+      "uniqueID": "c398699c-cf51-476b-a2e9-bb0cba785970",
+      "ioValues": []
+    },
+    {
+      "atomType": "Input",
+      "name": "Seat Width",
+      "x": 0.033,
+      "y": 0.5,
+      "uniqueID": "a28ea2f9-8bda-4ac9-aed6-4a996afbad73",
+      "ioValues": [],
+      "type": "number"
+    },
+    {
+      "atomType": "Input",
+      "name": "py thickness",
+      "x": 0.033,
+      "y": 0.6304347826086957,
+      "uniqueID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
+      "ioValues": [],
+      "type": "number"
+    }
+  ],
+  "allConnectors": [],
+  "unitsKey": "Inches",
+  "fileTypeVersion": 1,
+  "compiledBom": {},
+  "filetypeVersion": 1
 }
