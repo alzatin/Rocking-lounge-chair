@@ -44,31 +44,140 @@
       "type": "number"
     },
     {
-      "atomType": "Code",
-      "name": "Code",
-      "x": 0.3164451827242525,
-      "y": 0.37577639751552794,
-      "uniqueID": "4b0083a0-3e14-47ff-9dd6-0a11b63bcdce",
+      "atomType": "Molecule",
+      "name": "Side",
+      "x": 0.35481727574750827,
+      "y": 0.3133540372670808,
+      "uniqueID": "e53db3ad-4ce5-4bbe-b8f1-75cbd97bcabc",
       "ioValues": [
         {
-          "name": "dist",
-          "ioValue": 5
-        },
-        {
-          "name": "height",
+          "name": "py thickness",
           "ioValue": 0.75
         }
       ],
-      "codeVersion": 1,
-      "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
+      "topLevel": false,
+      "allAtoms": [
+        {
+          "atomType": "Output",
+          "name": "Output",
+          "x": 0.98,
+          "y": 0.5,
+          "uniqueID": "82fe10c0-3ef6-4cde-ab93-5a0674cdc2bd",
+          "ioValues": []
+        },
+        {
+          "atomType": "Code",
+          "name": "Code",
+          "x": 0.3803986710963455,
+          "y": 0.36645962732919257,
+          "uniqueID": "26551a6e-e33d-438d-8b8e-0dc89bfa0174",
+          "ioValues": [
+            {
+              "name": "dist",
+              "ioValue": 5
+            },
+            {
+              "name": "height",
+              "ioValue": 0.75
+            }
+          ],
+          "codeVersion": 1,
+          "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
+        },
+        {
+          "atomType": "Input",
+          "name": "py thickness",
+          "x": 0.033,
+          "y": 0.3133540372670808,
+          "uniqueID": "b79ec92a-51ab-4633-b5ab-e7ae713f4182",
+          "ioValues": [],
+          "type": "number"
+        },
+        {
+          "atomType": "Rectangle",
+          "name": "Rectangle",
+          "x": 0.2084717607973422,
+          "y": 0.6863354037267081,
+          "uniqueID": "601f0327-e5b6-4290-84dc-f28edd31ef34",
+          "ioValues": [
+            {
+              "name": "x length",
+              "ioValue": 10
+            },
+            {
+              "name": "y length",
+              "ioValue": 10
+            }
+          ]
+        },
+        {
+          "atomType": "Extrude",
+          "name": "Extrude",
+          "x": 0.36877076411960136,
+          "y": 0.7608695652173914,
+          "uniqueID": "49cefaab-0278-41d6-a1ba-fefa55fc1735",
+          "ioValues": [
+            {
+              "name": "height",
+              "ioValue": 1,
+              "currentEquation": "1"
+            }
+          ]
+        },
+        {
+          "atomType": "Rotate",
+          "name": "Rotate",
+          "x": 0.5116279069767442,
+          "y": 0.7763975155279503,
+          "uniqueID": "34821a16-518d-412c-b89f-92a420532ecc",
+          "ioValues": [
+            {
+              "name": "x-axis degrees",
+              "ioValue": 0,
+              "currentEquation": "0"
+            },
+            {
+              "name": "y-axis degrees",
+              "ioValue": 0
+            },
+            {
+              "name": "z-axis degrees",
+              "ioValue": 30,
+              "currentEquation": "30"
+            }
+          ]
+        }
+      ],
+      "allConnectors": [
+        {
+          "ap1Name": "number or geometry",
+          "ap2Name": "height",
+          "ap1ID": "b79ec92a-51ab-4633-b5ab-e7ae713f4182",
+          "ap2ID": "26551a6e-e33d-438d-8b8e-0dc89bfa0174"
+        },
+        {
+          "ap1Name": "geometry",
+          "ap2Name": "geometry",
+          "ap1ID": "601f0327-e5b6-4290-84dc-f28edd31ef34",
+          "ap2ID": "49cefaab-0278-41d6-a1ba-fefa55fc1735"
+        },
+        {
+          "ap1Name": "geometry",
+          "ap2Name": "geometry",
+          "ap1ID": "49cefaab-0278-41d6-a1ba-fefa55fc1735",
+          "ap2ID": "34821a16-518d-412c-b89f-92a420532ecc"
+        }
+      ],
+      "fileTypeVersion": 1,
+      "compiledBom": {}
     }
   ],
   "allConnectors": [
     {
       "ap1Name": "number or geometry",
-      "ap2Name": "height",
+      "ap2Name": "py thickness",
       "ap1ID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
-      "ap2ID": "4b0083a0-3e14-47ff-9dd6-0a11b63bcdce"
+      "ap2ID": "e53db3ad-4ce5-4bbe-b8f1-75cbd97bcabc"
     }
   ],
   "unitsKey": "Inches",
