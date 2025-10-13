@@ -2974,7 +2974,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "singular-69c77f549175a9f6fb1d72682d533370d3dd9b8ac2557722f3b11c14dc2854d3",
+                    "geometry": "singular-160bf6df656cdb5549dc7e6597f71ccd55cf2f3151f88f8d4cdc0b5a39b06a68",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2998,7 +2998,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-72c5e50148857117a8c18f48c995e2c5d312427bcf82bba7cc0a92563d8087d0",
+                    "geometry": "singular-18b05c5a4017ad499d7019a57db6bee58d32ad8c36fb57bed17a636578858c81",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3022,7 +3022,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-f53f39a483626097cd6cfd2a251ea26e100d3935fb76b7c220aac006be2e0be7",
+                    "geometry": "singular-df077fb01e16673b095c15d6c148370321e97b65a0670dc2c27d254ff2231f35",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3046,7 +3046,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-15e2aca6f7ef2e67eda91f123519dde05ac0b61be5138bd13d26429bc51ee95f",
+                    "geometry": "singular-0e3e29f9ed0a07b1af923d57ebdbf284b7d33ce3722ff9eba408297e7df10d1b",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3070,7 +3070,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-1f55290ef674e8f29766c89a693f906a389a72ae0c5d432680316c600f99a525",
+                    "geometry": "singular-1e233ceef381ff4fc5fcccdc6b15d0a576f56832f9edcea24418208fc144a80e",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3094,7 +3094,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-b74008f4c34eda7619545d71429f1d98ad4b073a02b976a0334fdc617c9c04ec",
+                    "geometry": "singular-085c3eec147d8ad8b1d2391117bf1e066d220ad19abf673389c5892cb24b3dd5",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3118,7 +3118,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-a9ddba9e912e1350ce921f144916a1a649ea46da4dcd154a4b252356d119d2c3",
+                    "geometry": "singular-32d2f066042e929de039e61cd2fc6f386a1f117b8bac14d9f71bf846a29058c2",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3142,7 +3142,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-e031da80e0856b6fb20e17d6bb81c2dfdf1fec32a63bdd1117661537ba769d9a",
+                    "geometry": "singular-57057cf6ebf7bd81cded74ce34de8395d1d4aab6424380204c910e4db300aaa9",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3166,7 +3166,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-f822c62e9ffc29f5fc057833ef85171517c5a08fc0f2886496f2e54e1f96faef",
+                    "geometry": "singular-24574a341a987a38a94b3b4431be18c94c4ce6ef371f900457428af1e3d16688",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3190,7 +3190,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-00eeffa74eab4719fdf2d6d8ff2ec4628760c10697e22164612c0188f2bbb117",
+                    "geometry": "singular-ca28b05792e099edb4344fd5615fcfd1eb9bde7c3d3c377bc27b3fb02a13897f",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3214,7 +3214,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-e2cced7f0350bd14452e7b515c63d19b6334e9fff4051a5df1f71c3fe1f9a3e8",
+                    "geometry": "singular-0b6771ff6762cba46d94459c8882004dd7490661dcbbc4c53cae972787c68eea",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3238,7 +3238,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-297dc697063f6b3a6507c73900721daa730ee274e06c9947e41641ca8f00183a",
+                    "geometry": "singular-77123b772a84d3309adf077ed271b1c8068d5eeecd29ed968d2e9ae1052960a9",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3262,7 +3262,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-df09a88526481bfeac444d5932db0dc8d67b5cdc4fa722802d88077702696310",
+                    "geometry": "singular-8ec02c7b239f1237d0117f51c2a6e0a3768f912f9b62170f6b50333cfbc3f0ff",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3286,7 +3286,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-fc580c3012e49c399c44253533f5d6f0fa474fafe011d6b532a4f9ad4967bce1",
+                    "geometry": "singular-49e00efdd4239d86ec26cc8189329ffd5f761cb80bb41ef981c54bb77a6dfcf6",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3310,7 +3310,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-d804472fa5f70d12e39ab5be029190c2b8726410dd1e338f07af8e19984f4d7e",
+                    "geometry": "singular-709f9a3bf43c2d47ba58511e02180a0eede9ea1af81eb378cf6aebf8e0e7c00c",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3334,7 +3334,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-001cb0376b2754798e5f6a08ea0681444f2bdb4767aa230bc9e59bb151e831ee",
+                    "geometry": "singular-88d9178cc068d71d13ec0e103804dc51eafbff93cccf40b264a1b3de6ca2743a",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -4565,8 +4565,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.45348837209302323,
-          "y": 0.6708074534161491,
+          "x": 0.4418604651162791,
+          "y": 0.717391304347826,
           "uniqueID": "a0666e8f-4921-4a3c-ac32-174670f24ece",
           "ioValues": [
             {
@@ -4796,8 +4796,8 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate",
-          "x": 0.6112956810631229,
-          "y": 0.48757763975155277,
+          "x": 0.5730897009966777,
+          "y": 0.5186335403726707,
           "uniqueID": "60a9af86-f886-4fc0-beaf-8c68bff0566d",
           "ioValues": [
             {
@@ -5027,17 +5027,19 @@
         {
           "atomType": "GitHubMolecule",
           "name": "Move-rotate-iteration",
-          "x": 0.5764119601328903,
-          "y": 0.8229813664596274,
+          "x": 0.6370431893687707,
+          "y": 0.8633540372670808,
           "uniqueID": "af569f6b-b09e-4569-a948-19a451377648",
           "ioValues": [
             {
               "name": "movex",
-              "ioValue": 3
+              "ioValue": 2.9,
+              "currentEquation": "2.9"
             },
             {
               "name": "movey",
-              "ioValue": -1.8
+              "ioValue": -1.8,
+              "currentEquation": "-1.8"
             },
             {
               "name": "movez",
@@ -5058,7 +5060,8 @@
             },
             {
               "name": "count",
-              "ioValue": 16
+              "ioValue": 16,
+              "currentEquation": "16"
             }
           ],
           "topLevel": false,
@@ -5096,7 +5099,7 @@
                 },
                 {
                   "name": "moveX",
-                  "ioValue": 3
+                  "ioValue": 2.9
                 },
                 {
                   "name": "moveY",
@@ -5384,15 +5387,15 @@
         },
         {
           "ap1Name": "geometry or number",
-          "ap2Name": "Shape",
-          "ap1ID": "a0666e8f-4921-4a3c-ac32-174670f24ece",
-          "ap2ID": "af569f6b-b09e-4569-a948-19a451377648"
-        },
-        {
-          "ap1Name": "geometry or number",
           "ap2Name": "Shape 5",
           "ap1ID": "60a9af86-f886-4fc0-beaf-8c68bff0566d",
           "ap2ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f"
+        },
+        {
+          "ap1Name": "geometry or number",
+          "ap2Name": "Shape",
+          "ap1ID": "60a9af86-f886-4fc0-beaf-8c68bff0566d",
+          "ap2ID": "af569f6b-b09e-4569-a948-19a451377648"
         },
         {
           "ap1Name": "geometry or number",
