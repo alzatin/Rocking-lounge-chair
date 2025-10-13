@@ -45,8 +45,8 @@
     {
       "atomType": "Assembly",
       "name": "Assembly",
-      "x": 0.6719269102990033,
-      "y": 0.4440993788819876,
+      "x": 0.6744186046511628,
+      "y": 0.4503105590062112,
       "uniqueID": "4283f6da-44f0-455b-b46c-1d138401aee7",
       "ioValues": [
         {
@@ -327,897 +327,6 @@
             "color": "#aad7f2",
             "bom": [],
             "dimension": "3D"
-          }
-        },
-        {
-          "name": "Shape 2",
-          "ioValue": {
-            "geometry": [
-              {
-                "geometry": "rotate-3506141fe8769a910a283f2ae98748a15538b107458f19f5bdce5e03906bdcfa",
-                "dimension": "3D",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              },
-              {
-                "geometry": [
-                  {
-                    "geometry": "rotate-e6f9e71ec1b89a746538b21ae9f81cd29dbf956c5676db349c26322afa4277e4",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-c99cfcd6ccca761b731827f0455b9a231a79da96bc841ca63990037261c001cc",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-997e0a184b3d0cd5633182733e3b84e2858457de6a6e91a14b7c7933a2deabe0",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-034e84ec329e5dba872e56c79759b799455b17ddabbf7701850e25016907f4a2",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-d0758b88bcc510c2e30539c5ecd0df04d5bb8a3f0cf92c704fa8278de453a639",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-7918ec0cb8e9493dcee41c83f102f3e9fe299cb9dd9923821d496bdaebd6d331",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-7f77eba9f306ed0bcbf080b9f3821655511191e11bdef6fe539835f8257b9af5",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-b79eaaecdd79c65d9ea281a9ee9f774bd1c0cd42d02d0c0581938d3df94a9001",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-4e06f06f4d0617bd4023ac7bf46525fd1c21f8ac0d79926107647b2611325c6b",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-c6569449b5c3ef6ea0afd7031a87a5466c28813bae75ed495e6d46b3a9893e9b",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-05738a8f2732c52d0a7f1609b0ca724461140cea651bad7afd3bb54333d80e21",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-0a2780d9558c617bf5e9d88337c2ce125e2477d18c510ccf976bd1ffe97b6dca",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-b1aec60ee51c2262469700122bdbece226f61bb52372297b9fcd5551d97634ea",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-aaea1854e923b83073e61f9d8cad8e68d6abd16873dadfe48bf17fc44f44cb06",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-1c36348667734fe5c2ff089a4d631ea9b88f9e5f0091744ccf9372cb8124afc7",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  }
-                ],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              },
-              {
-                "geometry": "rotate-6cffb6ee4c1ac4fdb1808a59b86c5785ca5e85264ad62be03b6f8195874550ae",
-                "dimension": "3D",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              },
-              {
-                "geometry": "rotate-ff8edf42648ab871bee8f4e8df159b3348e47a1af086df852438ff17fb3a08d3",
-                "dimension": "3D",
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              },
-              {
-                "geometry": [
-                  {
-                    "geometry": "rotate-4ee57af1c045620fdb778f654ce2c041f44c92cd17352417b0f8155abd4176e9",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-2d2c1a671922cd03bca565632c6dd7953559aac12482629d01113624b446ad65",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-891c48504b27a36a09fb5c4ca3fd62ea41add1e80208e2a77072303af961ee95",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-f23a04a398c9c180f1e2af47944c4a452976420f6218a329a0f12a5b3a17a8d3",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-cdb1dc3ccb3e9402540fd85ed26ee7dae7f3bf6f0f68f30efdea6f80244853c3",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-e3a1419fa98f3658f458e41c08dcbad9e05ba35ee5d91445ae3b19f4343de59b",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-3a3281807e40883c8d2d5e1007f6a0387f55ff87ce464cd2dd05690d07c7fb7a",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-243290f617281ac4cda8c75b89ef797eef93d97c95237f027e9413a43c0c4437",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-384815ad79043cf380dca3246d01317a55a38dcf5b2823de560ae6521788e21a",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-6f2718dcb54eede0b22e72042fd2311174033caed679ae1bb6bfa2f3147eb026",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-81cd168d64667140b937e9aea8518ac2cf299fdaa52696d366d372e9fc62b49f",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-c99efee8228db83d945b4c01c5abc5be3a27566497421df13b5553b1bcc5064d",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-de33ed3f5d1b5ec906e67a1cfa454a5222923554ce31f232e42047779b086d74",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-df2744980f2ad0c329bf96acd70022ea94b60f2c2b71bdf015d71a159194303d",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-569745f4c41c4cd577adcfe335b1e16a09cafb503c0151c2b21169705d67ce45",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  },
-                  {
-                    "geometry": "rotate-701a1c309c8aac53f4e67bddaae877a00de4b548bf1c461a2f2b90a7f5e6428e",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#aad7f2",
-                    "tags": [],
-                    "bom": []
-                  }
-                ],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              }
-            ],
-            "plane": {
-              "origin": [
-                0,
-                0,
-                0
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "tags": [],
-            "bom": []
           }
         },
         {
@@ -1570,6 +679,849 @@
             "color": "#aad7f2",
             "bom": [],
             "dimension": "3D"
+          }
+        },
+        {
+          "name": "Shape 4",
+          "ioValue": {
+            "geometry": [
+              {
+                "geometry": "move-5424504214c171117a168cb1a046283781c61b4bd65754c0f39a97e03a06b233",
+                "dimension": "3D",
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              },
+              {
+                "geometry": [
+                  {
+                    "geometry": "move-735ed4f57b4ead8aad8b98b38c304e7e1a412a820f700309ab62188c6077bfc3",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-82426f9f9a04a516ef543644c17b9986b0db27436cc6ac686e6cc88ecfbe5da7",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-4bd4edf7f1638ff8a93e536c91ca88209950b2703bcd04f05005810540b7ec36",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-58cd036edc81ea0d22a6c412271ffed35ffabba3055e7c5ba3c57600f65de0fb",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-656c60a1c25f25c85858ce960024fa282bddb9325be239a7e380e2204cec887d",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-8a60fadd27cb3c807ff15a6fbecf65cdaea05008a399e9db5b6fbf7f3904fd2f",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-0499fc27cf034985a6fa7c3c8b35de649f06f0135bdc4d706c3f76e2e66ab4ed",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-102f45db1c9567750a902628b02729e5a56715320328fe577b4c8ea1ca99320c",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-4c76fd74be3494414baa2c48d72725c3b4ac6bf95ae99bb2036f5f33a5d17d17",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-e8d2c5aa5f44ee42f9712a01cb2fcef5bf878494c14d0375f19f48ac16218079",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-07890f4f0e3d470a29b45a2aa85cec80e968a904f3966b2ffc2dc71d227fa389",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-ea7ab606e8f96104e2a55e9d01f10878535eb1b9657f1e068c7b4f41cebc12c8",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-a4493c0a159bfc047aaffd106e161280d48ebff9fc0b5e9cb9ffc55ed615118f",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-8e8f6d8bd40eb86a5628767955e7d5b2d7710af1f6c2cc59c702dcb58849f590",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-35ae18afe9a3790145ba243245d8355dcbbb7cecad4ea9036eed068d5d3440e1",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              },
+              {
+                "geometry": "move-1b633c00d85988a5d5f1d5bd8571a58d4823657f5408d9dd6d2944fcde53f46b",
+                "dimension": "3D",
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              },
+              {
+                "geometry": "move-f779af183557c4348085b43d131be19a52a4726bbd152f5e2b19483d4d0e0b9b",
+                "dimension": "3D",
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              },
+              {
+                "geometry": [
+                  {
+                    "geometry": "move-40eed1ae71207fc890f51364f9a989a492447e983c06ce3aa9681c3a8f91f63e",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-3910e96968178d8e7aa5ef9a78e2df8f5acdd12329f88e68783af4a282e3bb2a",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-23036065bdae79e41cf33f6269bd0801890506923d20249d065d72f9087c3a67",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-31fff96b266ccfd0b979dfc7e4bf216f04057c5be59f94cf621ac9e961150337",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-c219c3e7eba2d6d2dc961c3d22d9fd1dca2c366d4bcdf83ad379ed1334d589ff",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-14e3389630deaee9f055d0ba22adfac25a83bb5b0d17a253d76709652915b581",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-0aefaf7f6f63a781472d296ef6d85abcbf3455d93bea1a7f7edcc524b814d22c",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-c49c2800e7f13719c3a8b8dd0a71adb2d34731ff698c82e0f7afdff72418d26a",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-2947c06bb2683194676d202c1fd94eedeadf8cfae52f88c9b1579417773550c2",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-6769ccbe16782255a669c08b54475c8b97f44cc7b9e30cef5151a8d1743d71c5",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-ad6284656f1f46bbd2cb6e1374cea79469bd0a3289c7c29d3d62308fd2881534",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-c4677ce55d44150231325cf297ff93d6593503efe5a009d274ad4fa9956b9257",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-afe4cbbb55f85dbee5a3bf2ed4be4547e7bfe6339d1c3fc83729646364446d68",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  },
+                  {
+                    "geometry": "move-fe0ee26589ea7e8a7edad622950b09c4918bc1893040de5df1bbda9c4600a7e4",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "tags": [],
+                    "bom": []
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              }
+            ],
+            "plane": {
+              "origin": [
+                0,
+                0,
+                0
+              ],
+              "xDir": [
+                1,
+                0,
+                0
+              ],
+              "normal": [
+                0,
+                0,
+                1
+              ]
+            },
+            "color": "#aad7f2",
+            "tags": [],
+            "bom": []
           }
         }
       ]
@@ -2470,8 +2422,8 @@
     {
       "atomType": "Molecule",
       "name": "Slots",
-      "x": 0.4111295681063123,
-      "y": 0.40372670807453415,
+      "x": 0.420265780730897,
+      "y": 0.4347826086956522,
       "uniqueID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c",
       "ioValues": [
         {
@@ -2496,14 +2448,14 @@
         {
           "atomType": "Assembly",
           "name": "Assembly",
-          "x": 0.7317275747508305,
-          "y": 0.4440993788819876,
+          "x": 0.7599667774086378,
+          "y": 0.38509316770186336,
           "uniqueID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f",
           "ioValues": [
             {
               "name": "Shape 2",
               "ioValue": {
-                "geometry": "move-d8654e2e7d6012a43a1de6b161048e47f82e079f33b58db95e9dd0b896d2daa8",
+                "geometry": "move-7e1cfc2db1007058b3c0469541e3fe65136fc6a54d95b5b5c17af453c8de564e",
                 "dimension": "3D",
                 "plane": {
                   "origin": [
@@ -2532,7 +2484,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "singular-9c57633d1a8b53c2f1c264b045f6e0784b1b0c4d6093d2b96e30b1bb54485491",
+                    "geometry": "singular-908782201ed277d21c65034c8c37b7bb2a1da080213a4dce7288b35259f647cb",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2556,7 +2508,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-275b59242f75ccf487522fe9a8fd099f2b1fceeab603c8a491ea314d84ee44e4",
+                    "geometry": "singular-479543b1fd0aae5e5171bad1935f0e6b4bd169bf1343e96b25daec54f2aaee93",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2580,7 +2532,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-51ccb04344c1d84a7103ed4d57b1180da1f27d23dd87455a239bc535797fe7a3",
+                    "geometry": "singular-80e2c0e1269471551fa9a4aa6ad06961fe73a9b4bb9c352121af6ae5049aec9d",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2604,7 +2556,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-7c712e2ee2e9b5b0e07914b8c40edc9d5d5c1b2a3c4c03622c709f176c55eb31",
+                    "geometry": "singular-251257154b5c1e9162ab2f40ce55bd7a6f80e65afcf37083d4d0b9507705d72a",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2628,7 +2580,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-55f6c269592f84d3c3a4f9ceed968fa8f02cee6fa72509d01c05cfba34fb4530",
+                    "geometry": "singular-b9795abdfcb0394c8a20401c3deb7d308fc80d61861d64e7e6238169e55747fd",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2652,7 +2604,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-f724be2abe1e93d5d973cfeea84109c96dbb4502f1457f52c77f882631830225",
+                    "geometry": "singular-8e90ce3ef4ca897a6de42145b01a6a22a05075c0761a51d3701b35512826189b",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2676,7 +2628,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-1db16f37240912fb237d1ae266caee3f68bc2098ee607a1dda9984f404a6fd17",
+                    "geometry": "singular-ffc756e3dec1ac94c3497c980fcfc4c0bf883eceae8c9b5948c716c8eea2866d",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2700,7 +2652,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-c4ab6228c36b14b52a734e7c6f8101f7a28a2025a6f6f9f9a79ca7dfc4467643",
+                    "geometry": "singular-6f692d0515dee81ee8d48ce6dac7c8fa3188a54b6b947ce8eb8c0e9a2c44d868",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2724,7 +2676,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-027dfef666d0e8f1ef50ba608c00a873a6c19aa11d5e960acb675acdac863b4d",
+                    "geometry": "singular-b0f179a71dd4772742b3bde6e3cee3e00ff40396efe227b37fb1cc3b6e3b3dad",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2748,7 +2700,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-183eec8e4d354ee737c435c1f82a5fe3fc958338a6cfb60206f4ee9d5f1b20e6",
+                    "geometry": "singular-3e8104c081c6f243d135c77892ac5dfbadb451d17c8369d417f92ce622b61793",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2772,7 +2724,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-5bb07dc7f4c14a4b3bf07b50645261a7bc7c94d91cbb236dfe3f769ab95d850b",
+                    "geometry": "singular-b4e6d59f73510a596e3c799180af64860e2e0074023ff153feae741160b0882b",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2796,7 +2748,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-af0f728ebe3fcfe9bbd7441a0e16c07b67bb899939119215813f1b6ee371cbfc",
+                    "geometry": "singular-934a2ce86fa2dcc2bedb3e48a8791878049013c64f22d968237de97c42e99107",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2820,7 +2772,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-2e8ff55bc7ce2ffedccacb36317d9e3b0f1918255a70cfe4c4f4b9e1ce42fa63",
+                    "geometry": "singular-6906454660df7c15a5f8395593ae3098b530ca056bdec9f0c835c16ce49b176f",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2844,7 +2796,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-2ddb317c1030e6aed839d54e45707711e85471cb6475b2f2bad9942814669d08",
+                    "geometry": "singular-a636ef1ebe79d84134c4317d54a9d6fe4380b5a4e25f21d538551b8461e7e4d3",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2868,7 +2820,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-cb16b8aeb91f5bf91262b5fae4cdb2974e0971a38084ddefc9708562d7ccb99c",
+                    "geometry": "singular-187fe35c9481f31102b60feb2997395b46d1ffb379d76813532b78ecbcb9792d",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2918,7 +2870,7 @@
             {
               "name": "Shape 4",
               "ioValue": {
-                "geometry": "rotate-8f6155717679c81a4f6f68bcca541e54645abed656b9a09e531fdc9832706cfb",
+                "geometry": "rotate-7bb14df94cc70ff62b90df1b485db597cbc365067e05480dcfee8af56fd8adb5",
                 "dimension": "3D",
                 "plane": {
                   "origin": [
@@ -2945,7 +2897,7 @@
             {
               "name": "Shape 5",
               "ioValue": {
-                "geometry": "rotate-e826003838731707e44de0471a53b196fc18d19c6cf1d4691adfb2970107ebbe",
+                "geometry": "rotate-dbcc127718b7141fb35cc79555ab6dc70e8278a4a47e26578a45014900f5c031",
                 "dimension": "3D",
                 "plane": {
                   "origin": [
@@ -2974,7 +2926,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "singular-563c923d314c59ae2ab77078ba1b2003b594ebff2bcc4ab9beb869d126811db9",
+                    "geometry": "singular-9ffe41f1ed8a1baac9edd6e70307b0d69b7bea30e08411310ddcbcafcec7d9d1",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -2998,7 +2950,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-3b08acc3e5dd369771ef19070f1a0dd68c353c0ed41662c198311d9d24cc0bac",
+                    "geometry": "singular-b8a16fbbf042ed627792f835f453ad1f27d0ad6155b50d5d98e0556c3475253c",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3022,7 +2974,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-432515d17857c5fc257cfffaf1520f0db2e2fcdd5ed8352fd8ff8bec4c7b1156",
+                    "geometry": "singular-191383f5f628499ab8f8b1c7d1f9d2304c9a3707162acd48de5e243edec4aa02",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3046,7 +2998,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-1100d3819527bcf0b28bb4ae3b302d7dd290bb81f17ea40d7528a527441e090a",
+                    "geometry": "singular-afc771f6ae102a2bdfa5068c31396f147ec7b09d688ad56ea0a7d7a17a1e40e6",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3070,7 +3022,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-bdc1c252087bf373bb6c15434147eaac11a6ca8ff2301dce77b942e37e709a5a",
+                    "geometry": "singular-cb61d51da4bfa7a294f096bd1fc9898c723267f83abae024213d838094d654b2",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3094,7 +3046,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-2f868a8656f620880f47b8e0e4d85f80388db0f43a7af242249b8856a1e862f1",
+                    "geometry": "singular-f71781fece664b28bd674b00792e03e2e5436b73fc246250d1f586f4a5ad6f9a",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3118,7 +3070,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-8728b48ad1ef46bd1f0f1dcee7b68540de23627d84c6c83811d29e1cbb014d7d",
+                    "geometry": "singular-280d9731f9a7fae18685b9d9b88c4a21812eb2bcbe3f9aa38daa33bdb43878f9",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3142,7 +3094,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-c494b4cf60167a019874ca5705b705489362bf08badea41509c8d1d5b40be5e6",
+                    "geometry": "singular-fb326947bdc48a7d0eb7361748b5d1466c3e41a585766290d0a57a7db9275a8f",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3166,7 +3118,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-3ad5bf11f969790d071f533272f469e9621c8b2c9b8705026030b9e65a252fc1",
+                    "geometry": "singular-052917755ab1c95914a650833c06f91bf122ebcb342fcd067d2c6474992392a8",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3190,7 +3142,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-7684ce4f491244f99779d734d9de182de1f6826e732eb2a8c7e26164a6ba21d6",
+                    "geometry": "singular-5c8ad34fba1052c40f39f683f428463961b6a409bee9ccb47b6b26ed1fcd6e38",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3214,7 +3166,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-13a7b2aebaadfd621a4f908ad53e0d1311b033a33c32f7a78a7a6ac69746bbf3",
+                    "geometry": "singular-63ff9c8e324c36597bce0be0ba1a3c597847349c255b12c2e023f59e609b4237",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3238,7 +3190,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-da17be1a43eff7371598a3f58a19e6e20a9b2404c5965a1b093043c82984ccf7",
+                    "geometry": "singular-13d861e96aa31070094c972395f4068c063a75d66f37f806e53ab65b480ba3ac",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3262,7 +3214,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-07be8539cee825b5bdf996350c19c37b1de69ef1495e9f28ca98b3e66a3e6eb0",
+                    "geometry": "singular-6bbe03436b28fca89e9c86f683d85e9b32d7b0bb0252afc423292e20e80be7eb",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3286,7 +3238,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "singular-1dac9f93e7338543cb1bd3c3b3f530d9eb4bec2379d079564e3d5b03cf4cee4b",
+                    "geometry": "singular-e54ba776df9747e8bc6d3a944c52265b25ed521fd0e6ce29259c2c9f62b9255f",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -3308,136 +3260,6 @@
                     "color": "#aad7f2",
                     "tags": [],
                     "bom": []
-                  }
-                ],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "tags": [],
-                "color": "#aad7f2",
-                "bom": [],
-                "dimension": "3D"
-              }
-            },
-            {
-              "name": "Shape 7",
-              "ioValue": {
-                "geometry": [
-                  {
-                    "geometry": "cut-b6068a966683194fdf784c825a49f3d91c8c90fb3ac8a0caab2191b0e7d5b75a",
-                    "dimension": "3D",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": []
-                  },
-                  {
-                    "geometry": "cut-bfc2a9bc6e8e31d2246af5178c110b5eaf362a66d00a683fe7e81b8285316083",
-                    "dimension": "3D",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": []
-                  },
-                  {
-                    "geometry": "cut-c5d66da3524c7889239bf61a376da52992fd65a0e30e7def245adc2c8552c4d5",
-                    "tags": [],
-                    "color": "#aad7f2",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": [],
-                    "dimension": "3D"
-                  },
-                  {
-                    "geometry": "move-4217de21f1b8094ca31ac41ecca002c88dd5783c449d371516a623aadd732a84",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": [],
-                    "dimension": "3D"
                   }
                 ],
                 "plane": {
@@ -3468,8 +3290,8 @@
         {
           "atomType": "Rectangle",
           "name": "Rectangle",
-          "x": 0.19933554817275748,
-          "y": 0.5807453416149069,
+          "x": 0.2084717607973422,
+          "y": 0.36024844720496896,
           "uniqueID": "318d4d78-4ac9-4b76-a6ff-b7152198fca6",
           "ioValues": [
             {
@@ -3503,21 +3325,21 @@
         {
           "atomType": "Extrude",
           "name": "Extrude",
-          "x": 0.292358803986711,
-          "y": 0.7919254658385093,
+          "x": 0.29817275747508304,
+          "y": 0.7329192546583851,
           "uniqueID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361",
           "ioValues": [
             {
               "name": "height",
-              "ioValue": 24
+              "ioValue": 25
             }
           ]
         },
         {
           "atomType": "Rotate",
           "name": "Rotate",
-          "x": 0.8770764119601329,
-          "y": 0.6645962732919254,
+          "x": 0.8803986710963455,
+          "y": 0.65527950310559,
           "uniqueID": "ae86992d-4f8f-4583-a9d5-318df0324e21",
           "ioValues": [
             {
@@ -3533,478 +3355,6 @@
               "ioValue": 0
             }
           ]
-        },
-        {
-          "atomType": "Molecule",
-          "name": "Side",
-          "x": 0.1835548172757475,
-          "y": 0.2701863354037267,
-          "uniqueID": "8b6fb447-1550-487b-b9f2-a18b1ab06da9",
-          "ioValues": [
-            {
-              "name": "py thickness",
-              "ioValue": 0.75
-            }
-          ],
-          "topLevel": false,
-          "allAtoms": [
-            {
-              "atomType": "Output",
-              "name": "Output",
-              "x": 0.98,
-              "y": 0.5,
-              "uniqueID": "c28a4335-0ec4-47ce-b720-aa3ffa6e01e3",
-              "ioValues": []
-            },
-            {
-              "atomType": "Code",
-              "name": "Code",
-              "x": 0.3006644518272425,
-              "y": 0.2701863354037267,
-              "uniqueID": "a33a73be-2efa-4f1a-b301-5f02419dd298",
-              "ioValues": [
-                {
-                  "name": "dist",
-                  "ioValue": 5
-                },
-                {
-                  "name": "height",
-                  "ioValue": 0.75
-                }
-              ],
-              "codeVersion": 1,
-              "code": "\n      const Inputs = [\n      {inputName: \"dist\", type: \"number\", defaultValue: 5},\n        \n      {inputName: \"height\", type: \"number\", defaultValue: 5},\n      ]\n    \n\n const baseWidth = 60;\n\n      const profile = replicad.draw().\n        movePointerTo([0,1,0]).bulgeArcTo(\n  [32,1,0],0.11).bulgeArcTo(\n  [62,30,0],0.3).smoothSplineTo([59,30,0]).bulgeArcTo([33,10,0], -.20).smoothSplineTo([28,10,0]).bulgeArcTo([0,2,0],0.33)\n    \n    \n    .close();\n\nconsole.log(profile)\n      const newPlane = new replicad.Plane().pivot(0, 'Y')\n      let createdShape = profile.sketchOnPlane(\"XY\").extrude(height)\n\n      //Wrap the raw replicad geometry in our assembly format\n      let shape2 = {\n          geometry: [createdShape],\n          dimension: \"3D\",\n          tags: [\"createdShape\"],\n          color: '#A3CE5B',\n          plane: newPlane,\n          bom: []\n      }\n\n     return shape2"
-            },
-            {
-              "atomType": "Input",
-              "name": "py thickness",
-              "x": 0.031349999999999996,
-              "y": 0.3133540372670808,
-              "uniqueID": "49da0051-5c4e-40c5-8622-62f92a4af7ad",
-              "ioValues": [],
-              "type": "number"
-            },
-            {
-              "atomType": "Rectangle",
-              "name": "Rectangle",
-              "x": 0.1345514950166113,
-              "y": 0.6801242236024845,
-              "uniqueID": "246426d9-4667-43cd-8bbe-86056e0cd0b0",
-              "ioValues": [
-                {
-                  "name": "x length",
-                  "ioValue": 50
-                },
-                {
-                  "name": "y length",
-                  "ioValue": 50
-                }
-              ]
-            },
-            {
-              "atomType": "Extrude",
-              "name": "Extrude",
-              "x": 0.24667774086378738,
-              "y": 0.7267080745341615,
-              "uniqueID": "1750e4dd-7387-413f-ac7b-b3ab52ebfe0c",
-              "ioValues": [
-                {
-                  "name": "height",
-                  "ioValue": 1
-                }
-              ]
-            },
-            {
-              "atomType": "Rotate",
-              "name": "Rotate",
-              "x": 0.3272425249169435,
-              "y": 0.7515527950310559,
-              "uniqueID": "2b2d8b24-d5de-4119-ac10-6c914accf1af",
-              "ioValues": [
-                {
-                  "name": "x-axis degrees",
-                  "ioValue": 0
-                },
-                {
-                  "name": "y-axis degrees",
-                  "ioValue": 0
-                },
-                {
-                  "name": "z-axis degrees",
-                  "ioValue": 30
-                }
-              ]
-            },
-            {
-              "atomType": "Assembly",
-              "name": "Assembly",
-              "x": 0.8048172757475083,
-              "y": 0.42546583850931674,
-              "uniqueID": "172830f5-a01b-4f86-add6-90a02d0774c8",
-              "ioValues": [
-                {
-                  "name": "Shape 1",
-                  "ioValue": {
-                    "geometry": "cut-6c74709a0246f284a20c7a65658fe418fe0c557e3910d28ec422bed5533766d9",
-                    "dimension": "3D",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": []
-                  }
-                },
-                {
-                  "name": "Shape 2",
-                  "ioValue": {
-                    "geometry": "move-bfafe853877f1665fa441352120542eab9718dd70384575389e0ecc25a4f7e89",
-                    "dimension": "3D",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": []
-                  }
-                },
-                {
-                  "name": "Shape 3",
-                  "ioValue": {
-                    "geometry": "intersect-f569d6a278215dfb2876af528fd63efbe3ff0da3e7a59aa64e4ccc4b748923bf",
-                    "tags": [],
-                    "color": "#aad7f2",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": [],
-                    "dimension": "3D"
-                  }
-                },
-                {
-                  "name": "Shape 4",
-                  "ioValue": {
-                    "geometry": "move-4217de21f1b8094ca31ac41ecca002c88dd5783c449d371516a623aadd732a84",
-                    "tags": [
-                      "createdShape"
-                    ],
-                    "color": "#A3CE5B",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "bom": [],
-                    "dimension": "3D"
-                  }
-                }
-              ]
-            },
-            {
-              "atomType": "Move",
-              "name": "Move",
-              "x": 0.4393687707641196,
-              "y": 0.8881987577639752,
-              "uniqueID": "2f5317a1-f9f5-437c-b52b-fc302c6e2749",
-              "ioValues": [
-                {
-                  "name": "xDist",
-                  "ioValue": 60
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": 10
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 0
-                }
-              ]
-            },
-            {
-              "atomType": "Difference",
-              "name": "Difference",
-              "x": 0.6420265780730896,
-              "y": 0.16149068322981366,
-              "uniqueID": "3a711288-6930-433e-96f5-e8ed252878e6",
-              "ioValues": []
-            },
-            {
-              "atomType": "Move",
-              "name": "Move",
-              "x": 0.44435215946843853,
-              "y": 0.6801242236024845,
-              "uniqueID": "1f84f7bb-f4f6-4eb4-a45f-5e2985250e49",
-              "ioValues": [
-                {
-                  "name": "xDist",
-                  "ioValue": 70
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": 10
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 0
-                }
-              ]
-            },
-            {
-              "atomType": "Difference",
-              "name": "Difference",
-              "x": 0.5872093023255814,
-              "y": 0.7142857142857143,
-              "uniqueID": "00afaeac-00d8-464a-9262-030e0e695d71",
-              "ioValues": []
-            },
-            {
-              "atomType": "Move",
-              "name": "Move",
-              "x": 0.707641196013289,
-              "y": 0.6242236024844721,
-              "uniqueID": "cfd9aba8-fd5f-44c2-a04b-153dec797e22",
-              "ioValues": [
-                {
-                  "name": "xDist",
-                  "ioValue": 0
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": 0
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 0.75
-                }
-              ]
-            },
-            {
-              "atomType": "Intersection",
-              "name": "Intersection",
-              "x": 0.521594684385382,
-              "y": 0.45652173913043476,
-              "uniqueID": "480a11b8-5b61-4f99-91d9-1e8b7c1978db",
-              "ioValues": []
-            },
-            {
-              "atomType": "Intersection",
-              "name": "Intersection",
-              "x": 0.4833887043189368,
-              "y": 0.33540372670807456,
-              "uniqueID": "90aea973-d156-4ece-aad8-85e6a48c3d07",
-              "ioValues": []
-            },
-            {
-              "atomType": "Move",
-              "name": "Move",
-              "x": 0.6370431893687707,
-              "y": 0.453416149068323,
-              "uniqueID": "98f3b14f-7346-4dec-bc19-d5e3d7e70949",
-              "ioValues": [
-                {
-                  "name": "xDist",
-                  "ioValue": 0
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": 0
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 0.75
-                }
-              ]
-            }
-          ],
-          "allConnectors": [
-            {
-              "ap1Name": "output",
-              "ap2Name": "geometry1",
-              "ap1ID": "a33a73be-2efa-4f1a-b301-5f02419dd298",
-              "ap2ID": "3a711288-6930-433e-96f5-e8ed252878e6"
-            },
-            {
-              "ap1Name": "output",
-              "ap2Name": "geometry1",
-              "ap1ID": "a33a73be-2efa-4f1a-b301-5f02419dd298",
-              "ap2ID": "00afaeac-00d8-464a-9262-030e0e695d71"
-            },
-            {
-              "ap1Name": "output",
-              "ap2Name": "geometry2",
-              "ap1ID": "a33a73be-2efa-4f1a-b301-5f02419dd298",
-              "ap2ID": "480a11b8-5b61-4f99-91d9-1e8b7c1978db"
-            },
-            {
-              "ap1Name": "output",
-              "ap2Name": "geometry1",
-              "ap1ID": "a33a73be-2efa-4f1a-b301-5f02419dd298",
-              "ap2ID": "90aea973-d156-4ece-aad8-85e6a48c3d07"
-            },
-            {
-              "ap1Name": "number or geometry",
-              "ap2Name": "height",
-              "ap1ID": "49da0051-5c4e-40c5-8622-62f92a4af7ad",
-              "ap2ID": "a33a73be-2efa-4f1a-b301-5f02419dd298"
-            },
-            {
-              "ap1Name": "number or geometry",
-              "ap2Name": "zDist",
-              "ap1ID": "49da0051-5c4e-40c5-8622-62f92a4af7ad",
-              "ap2ID": "cfd9aba8-fd5f-44c2-a04b-153dec797e22"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "246426d9-4667-43cd-8bbe-86056e0cd0b0",
-              "ap2ID": "1750e4dd-7387-413f-ac7b-b3ab52ebfe0c"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "1750e4dd-7387-413f-ac7b-b3ab52ebfe0c",
-              "ap2ID": "2b2d8b24-d5de-4119-ac10-6c914accf1af"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "2b2d8b24-d5de-4119-ac10-6c914accf1af",
-              "ap2ID": "2f5317a1-f9f5-437c-b52b-fc302c6e2749"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "2b2d8b24-d5de-4119-ac10-6c914accf1af",
-              "ap2ID": "1f84f7bb-f4f6-4eb4-a45f-5e2985250e49"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "number or geometry",
-              "ap1ID": "172830f5-a01b-4f86-add6-90a02d0774c8",
-              "ap2ID": "c28a4335-0ec4-47ce-b720-aa3ffa6e01e3"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry2",
-              "ap1ID": "2f5317a1-f9f5-437c-b52b-fc302c6e2749",
-              "ap2ID": "3a711288-6930-433e-96f5-e8ed252878e6"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry1",
-              "ap1ID": "2f5317a1-f9f5-437c-b52b-fc302c6e2749",
-              "ap2ID": "480a11b8-5b61-4f99-91d9-1e8b7c1978db"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry2",
-              "ap1ID": "2f5317a1-f9f5-437c-b52b-fc302c6e2749",
-              "ap2ID": "90aea973-d156-4ece-aad8-85e6a48c3d07"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "Shape 1",
-              "ap1ID": "3a711288-6930-433e-96f5-e8ed252878e6",
-              "ap2ID": "172830f5-a01b-4f86-add6-90a02d0774c8"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry2",
-              "ap1ID": "1f84f7bb-f4f6-4eb4-a45f-5e2985250e49",
-              "ap2ID": "00afaeac-00d8-464a-9262-030e0e695d71"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "00afaeac-00d8-464a-9262-030e0e695d71",
-              "ap2ID": "cfd9aba8-fd5f-44c2-a04b-153dec797e22"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "Shape 2",
-              "ap1ID": "cfd9aba8-fd5f-44c2-a04b-153dec797e22",
-              "ap2ID": "172830f5-a01b-4f86-add6-90a02d0774c8"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "Shape 3",
-              "ap1ID": "480a11b8-5b61-4f99-91d9-1e8b7c1978db",
-              "ap2ID": "172830f5-a01b-4f86-add6-90a02d0774c8"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "geometry",
-              "ap1ID": "90aea973-d156-4ece-aad8-85e6a48c3d07",
-              "ap2ID": "98f3b14f-7346-4dec-bc19-d5e3d7e70949"
-            },
-            {
-              "ap1Name": "geometry",
-              "ap2Name": "Shape 4",
-              "ap1ID": "98f3b14f-7346-4dec-bc19-d5e3d7e70949",
-              "ap2ID": "172830f5-a01b-4f86-add6-90a02d0774c8"
-            }
-          ],
-          "fileTypeVersion": 1,
-          "compiledBom": []
         },
         {
           "atomType": "GitHubMolecule",
@@ -5491,6 +4841,20 @@
           "unitsKey": "Inches",
           "fileTypeVersion": 1,
           "compiledBom": []
+        },
+        {
+          "atomType": "Equation",
+          "name": "Equation",
+          "x": 0.19767441860465118,
+          "y": 0.717391304347826,
+          "uniqueID": "634aaa0d-6e46-4c50-ba42-a2ee4059a39f",
+          "ioValues": [
+            {
+              "name": "x",
+              "ioValue": 24
+            }
+          ],
+          "currentEquation": "x + 1"
         }
       ],
       "allConnectors": [
@@ -5499,12 +4863,6 @@
           "ap2Name": "geometry",
           "ap1ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f",
           "ap2ID": "ae86992d-4f8f-4583-a9d5-318df0324e21"
-        },
-        {
-          "ap1Name": "geometry",
-          "ap2Name": "number or geometry",
-          "ap1ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f",
-          "ap2ID": "1344134b-ab58-4796-b8cc-f2cfe78ce933"
         },
         {
           "ap1Name": "geometry",
@@ -5520,9 +4878,9 @@
         },
         {
           "ap1Name": "number or geometry",
-          "ap2Name": "height",
+          "ap2Name": "x",
           "ap1ID": "ace0fe78-0c6c-43ef-9ff0-f6eee3c5a7fd",
-          "ap2ID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361"
+          "ap2ID": "634aaa0d-6e46-4c50-ba42-a2ee4059a39f"
         },
         {
           "ap1Name": "geometry",
@@ -5537,10 +4895,10 @@
           "ap2ID": "a0666e8f-4921-4a3c-ac32-174670f24ece"
         },
         {
-          "ap1Name": "geometry or number",
-          "ap2Name": "Shape 7",
-          "ap1ID": "8b6fb447-1550-487b-b9f2-a18b1ab06da9",
-          "ap2ID": "ca1c391d-0e6a-4ab1-97ff-7032db13b06f"
+          "ap1Name": "geometry",
+          "ap2Name": "number or geometry",
+          "ap1ID": "ae86992d-4f8f-4583-a9d5-318df0324e21",
+          "ap2ID": "1344134b-ab58-4796-b8cc-f2cfe78ce933"
         },
         {
           "ap1Name": "geometry or number",
@@ -5595,6 +4953,12 @@
           "ap2Name": "Shape",
           "ap1ID": "f4d308c7-4391-493b-b638-89108f02a9a3",
           "ap2ID": "af569f6b-b09e-4569-a948-19a451377648"
+        },
+        {
+          "ap1Name": "result",
+          "ap2Name": "height",
+          "ap1ID": "634aaa0d-6e46-4c50-ba42-a2ee4059a39f",
+          "ap2ID": "941b9e1a-f1df-4c23-937c-f44b8d9ec361"
         }
       ],
       "fileTypeVersion": 1,
@@ -6370,6 +5734,41 @@
       ],
       "fileTypeVersion": 1,
       "compiledBom": []
+    },
+    {
+      "atomType": "Move",
+      "name": "Move",
+      "x": 0.5598006644518273,
+      "y": 0.7701863354037267,
+      "uniqueID": "3c9ca800-2dc2-41b9-bae0-8c34fbb34f2f",
+      "ioValues": [
+        {
+          "name": "xDist",
+          "ioValue": 0
+        },
+        {
+          "name": "yDist",
+          "ioValue": 0.875
+        },
+        {
+          "name": "zDist",
+          "ioValue": 0
+        }
+      ]
+    },
+    {
+      "atomType": "Equation",
+      "name": "Equation",
+      "x": 0.28820598006644516,
+      "y": 0.9440993788819877,
+      "uniqueID": "374f7ffc-bb20-4fd3-a87b-1c7ed8dc68f5",
+      "ioValues": [
+        {
+          "name": "x",
+          "ioValue": 0.75
+        }
+      ],
+      "currentEquation": "x/2 + .5"
     }
   ],
   "allConnectors": [
@@ -6410,6 +5809,12 @@
       "ap2ID": "2b634e68-4840-4c5f-b9fc-44784d92770e"
     },
     {
+      "ap1Name": "number or geometry",
+      "ap2Name": "x",
+      "ap1ID": "85f1c097-ca66-4b33-88b6-ec2ab6470e09",
+      "ap2ID": "374f7ffc-bb20-4fd3-a87b-1c7ed8dc68f5"
+    },
+    {
       "ap1Name": "geometry",
       "ap2Name": "number or geometry",
       "ap1ID": "4283f6da-44f0-455b-b46c-1d138401aee7",
@@ -6429,15 +5834,27 @@
     },
     {
       "ap1Name": "geometry or number",
-      "ap2Name": "Shape 2",
+      "ap2Name": "geometry",
       "ap1ID": "e81a1345-decb-4874-a29a-cb6c4ee34d5c",
-      "ap2ID": "4283f6da-44f0-455b-b46c-1d138401aee7"
+      "ap2ID": "3c9ca800-2dc2-41b9-bae0-8c34fbb34f2f"
     },
     {
       "ap1Name": "geometry or number",
       "ap2Name": "Shape 3",
       "ap1ID": "2b634e68-4840-4c5f-b9fc-44784d92770e",
       "ap2ID": "4283f6da-44f0-455b-b46c-1d138401aee7"
+    },
+    {
+      "ap1Name": "geometry",
+      "ap2Name": "Shape 4",
+      "ap1ID": "3c9ca800-2dc2-41b9-bae0-8c34fbb34f2f",
+      "ap2ID": "4283f6da-44f0-455b-b46c-1d138401aee7"
+    },
+    {
+      "ap1Name": "result",
+      "ap2Name": "yDist",
+      "ap1ID": "374f7ffc-bb20-4fd3-a87b-1c7ed8dc68f5",
+      "ap2ID": "3c9ca800-2dc2-41b9-bae0-8c34fbb34f2f"
     }
   ],
   "unitsKey": "Inches",
