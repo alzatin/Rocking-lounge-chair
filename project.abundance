@@ -1562,6 +1562,72 @@
       "currentEquation": "x/2 + .5"
     },
     {
+      "atomType": "CutLayout",
+      "name": "Cut Layout",
+      "x": 0.7009029345372461,
+      "y": 0.2981366459627329,
+      "uniqueID": "df675df9-d8bf-4663-aa6e-e3e2efa8ee5a",
+      "ioValues": [
+        {
+          "name": "Sheet Width",
+          "ioValue": 1000
+        },
+        {
+          "name": "Sheet Height",
+          "ioValue": 1000
+        },
+        {
+          "name": "Part Padding",
+          "ioValue": 0.4
+        }
+      ],
+      "placements": []
+    },
+    {
+      "atomType": "CutLayout",
+      "name": "Cut Layout",
+      "x": 0.5564334085778782,
+      "y": 0.2173913043478261,
+      "uniqueID": "a3bddb6d-52ce-4cca-8337-136fc4d88a47",
+      "ioValues": [
+        {
+          "name": "Sheet Width",
+          "ioValue": 96
+        },
+        {
+          "name": "Sheet Height",
+          "ioValue": 48
+        },
+        {
+          "name": "Part Padding",
+          "ioValue": 0.4
+        }
+      ],
+      "placements": []
+    },
+    {
+      "atomType": "CutLayout",
+      "name": "Cut Layout",
+      "x": 0.5079006772009029,
+      "y": 0.36024844720496896,
+      "uniqueID": "40ddaf85-235d-45b6-a3ec-35cd210efbd4",
+      "ioValues": [
+        {
+          "name": "Sheet Width",
+          "ioValue": 96
+        },
+        {
+          "name": "Sheet Height",
+          "ioValue": 48
+        },
+        {
+          "name": "Part Padding",
+          "ioValue": 0.4
+        }
+      ],
+      "placements": []
+    },
+    {
       "atomType": "Molecule",
       "name": "Stoppers",
       "x": 0.6309255079006773,
@@ -5987,74 +6053,6 @@
       ],
       "fileTypeVersion": 1,
       "compiledBom": []
-    },
-    {
-      "atomType": "CutLayout",
-      "name": "Cut Layout",
-      "x": 0.7009029345372461,
-      "y": 0.2981366459627329,
-      "uniqueID": "df675df9-d8bf-4663-aa6e-e3e2efa8ee5a",
-      "ioValues": [
-        {
-          "name": "Sheet Width",
-          "ioValue": 1000,
-          "currentEquation": "1000"
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 1000,
-          "currentEquation": "1000"
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 0.4
-        }
-      ],
-      "placements": []
-    },
-    {
-      "atomType": "CutLayout",
-      "name": "Cut Layout",
-      "x": 0.5564334085778782,
-      "y": 0.2173913043478261,
-      "uniqueID": "a3bddb6d-52ce-4cca-8337-136fc4d88a47",
-      "ioValues": [
-        {
-          "name": "Sheet Width",
-          "ioValue": 96
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 48
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 0.4
-        }
-      ],
-      "placements": []
-    },
-    {
-      "atomType": "CutLayout",
-      "name": "Cut Layout",
-      "x": 0.5079006772009029,
-      "y": 0.36024844720496896,
-      "uniqueID": "40ddaf85-235d-45b6-a3ec-35cd210efbd4",
-      "ioValues": [
-        {
-          "name": "Sheet Width",
-          "ioValue": 96
-        },
-        {
-          "name": "Sheet Height",
-          "ioValue": 48
-        },
-        {
-          "name": "Part Padding",
-          "ioValue": 0.4
-        }
-      ],
-      "placements": []
     }
   ],
   "allConnectors": [
